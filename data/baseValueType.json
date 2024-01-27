@@ -1,0 +1,18 @@
+[
+    {
+        "key": "Finanzierungsbetrag",
+        "text": "%-Finanzierungsbetrag"
+    },
+    {
+        "key": "Kaufpreis",
+        "text": "%-Kaufpreis"
+    },
+    {
+        "key": "Listenpreis",
+        "text": "%-Listenpreis"
+    },
+    {
+        "key": "Fixbetrag",
+        "text": "Fixbetrag"
+    }
+]

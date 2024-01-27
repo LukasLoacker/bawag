@@ -1,0 +1,26 @@
+[
+    {
+        "key": "1",
+        "text": "1=E/A Rechner"
+    },
+    {
+        "key": "2",
+        "text": "2=Pauschalierer"
+    },
+    {
+        "key": "3",
+        "text": "3=Bilanz klein-Betriebsleistung bis € 0,5 Mio."
+    },
+    {
+        "key": "4",
+        "text": "4=Bilanz mittel-Betriebsleistung von € 0,5 Mio. bis € 10 Mio."
+    },
+    {
+        "key": "5",
+        "text": "5=Bilanz groß-Betriebsleistung von € 10 Mio. bis € 50 Mio."
+    },
+    {
+        "key": "6",
+        "text": "6=Bilanz corporate-Betriebsleistung größer € 50 Mio. oder Exposure größer € 1,0 Mio."
+    }
+]

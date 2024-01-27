@@ -1,0 +1,114 @@
+[
+    {
+        "key": "44",
+        "text": "AG & Co.KG"
+    },
+    {
+        "key": "45",
+        "text": "Gen.m.b.H"
+    },
+    {
+        "key": "09",
+        "text": "Privatperson"
+    },
+    {
+        "key": "10",
+        "text": "Einzelunternehmung protokolliert"
+    },
+    {
+        "key": "11",
+        "text": "Einzelunternehmung nicht protokolliert"
+    },
+    {
+        "key": "15",
+        "text": "GmbH & Co"
+    },
+    {
+        "key": "20",
+        "text": "Land"
+    },
+    {
+        "key": "23",
+        "text": "Kammer"
+    },
+    {
+        "key": "12",
+        "text": "GmbH"
+    },
+    {
+        "key": "13",
+        "text": "KG"
+    },
+    {
+        "key": "14",
+        "text": "GesmbH & Co KG"
+    },
+    {
+        "key": "16",
+        "text": "OG"
+    },
+    {
+        "key": "17",
+        "text": "Genossenschaft"
+    },
+    {
+        "key": "18",
+        "text": "Gemeinde (Kommune)"
+    },
+    {
+        "key": "21",
+        "text": "AG"
+    },
+    {
+        "key": "24",
+        "text": "Kirchen, Klöster, Relig.gemeinsch."
+    },
+    {
+        "key": "25",
+        "text": "KEG"
+    },
+    {
+        "key": "26",
+        "text": "KÖR"
+    },
+    {
+        "key": "27",
+        "text": "OEG"
+    },
+    {
+        "key": "28",
+        "text": "Politische Partei"
+    },
+    {
+        "key": "29",
+        "text": "Sonderrechtsform"
+    },
+    {
+        "key": "30",
+        "text": "Stiftung"
+    },
+    {
+        "key": "31",
+        "text": "Verein"
+    },
+    {
+        "key": "22",
+        "text": "GesbR/ARGE"
+    },
+    {
+        "key": "19",
+        "text": "Bund"
+    },
+    {
+        "key": "32",
+        "text": "GmbH & Co OEG"
+    },
+    {
+        "key": "33",
+        "text": "GmbH & Co KEG"
+    },
+    {
+        "key": "34",
+        "text": "GmbH & Co OG"
+    }
+]

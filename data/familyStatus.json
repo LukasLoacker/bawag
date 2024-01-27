@@ -1,0 +1,22 @@
+[
+    {
+        "key": "single",
+        "text": "ledig"
+    },
+    {
+        "key": "married",
+        "text": "verheiratet"
+    },
+    {
+        "key": "divorced",
+        "text": "geschieden"
+    },
+    {
+        "key": "widowed",
+        "text": "verwitwet"
+    },
+    {
+        "key": "community",
+        "text": "Lebensgemeinschaft"
+    }
+]

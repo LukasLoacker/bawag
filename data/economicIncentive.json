@@ -1,0 +1,46 @@
+[
+    {
+        "key": "financialAgentWalkIn",
+        "text": "Finanzagent mit Laufkundschaft"
+    },
+    {
+        "key": "importExport",
+        "text": "Import / Export"
+    },
+    {
+        "key": "nuclearIndustry",
+        "text": "Nuklear Industrie"
+    },
+    {
+        "key": "adultEntertainment",
+        "text": "Unterhaltung für Erwachsene"
+    },
+    {
+        "key": "investmentAdvice",
+        "text": "Vermögensberatung"
+    },
+    {
+        "key": "business consultancy",
+        "text": "Unternehmensberatung"
+    },
+    {
+        "key": "charteredAccountant",
+        "text": "Wirtschaftstreuhänder"
+    },
+    {
+        "key": "advocate",
+        "text": "Rechtsanwalt"
+    },
+    {
+        "key": "adviserOfState",
+        "text": "Berater eines Staates"
+    },
+    {
+        "key": "supplierOfState",
+        "text": "Zulieferer eines Staates"
+    },
+    {
+        "key": "notSpecified",
+        "text": "keine Auswahl zutreffend"
+    }
+]

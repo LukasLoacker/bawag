@@ -1,0 +1,34 @@
+[
+    {
+        "key": "Angestellter",
+        "text": "Angestellter"
+    },
+    {
+        "key": "Arbeiter",
+        "text": "Arbeiter"
+    },
+    {
+        "key": "Beamter",
+        "text": "Beamter"
+    },
+    {
+        "key": "Pensionist",
+        "text": "Pensionist"
+    },
+    {
+        "key": "Selbstaendig",
+        "text": "Selbstständig"
+    },
+    {
+        "key": "kein",
+        "text": "Kein AV"
+    },
+    {
+        "key": "Sonstige",
+        "text": "Sonstige"
+    },
+    {
+        "key": "Diplomat",
+        "text": "Diplomat"
+    }
+]

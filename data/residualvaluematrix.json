@@ -1,0 +1,1076 @@
+[
+    {
+        "residualValueClass": 1,
+        "term": 12,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 62.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 12,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 61.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 12,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 60.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 18,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 58.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 18,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 57.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 18,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 56.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 24,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 54.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 24,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 53.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 24,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 52.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 30,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 50.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 30,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 49.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 30,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 48.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 36,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 46.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 36,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 45.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 36,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 44.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 42,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 42.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 42,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 41.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 42,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 40.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 48,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 38.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 48,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 37.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 48,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 36.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 54,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 35.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 54,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 34.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 54,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 33.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 60,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 32.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 60,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 31.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 60,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 30.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 66,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 29.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 66,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 28.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 66,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 27.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 72,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 26.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 72,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 25.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 72,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 24.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 78,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 23.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 78,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 22.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 78,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 21.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 84,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 20.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 84,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 19.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 84,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 18.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 90,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 17.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 90,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 16.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 90,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 15.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 96,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 14.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 96,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 13.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 96,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 12.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 102,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 12.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 102,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 11.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 102,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 10.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 108,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 10.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 108,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 9.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 108,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 8.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 114,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 8.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 114,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 7.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 114,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 6.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 120,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 6.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 120,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 5.0
+    },
+    {
+        "residualValueClass": 1,
+        "term": 120,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 4.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 12,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 62.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 12,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 61.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 12,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 59.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 12,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 55.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 18,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 58.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 18,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 57.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 18,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 53.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 18,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 48.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 24,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 54.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 24,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 53.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 24,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 47.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 24,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 41.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 30,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 50.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 30,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 49.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 30,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 42.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 30,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 36.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 36,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 46.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 36,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 45.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 36,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 38.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 36,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 30.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 42,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 42.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 42,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 41.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 42,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 34.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 42,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 25.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 48,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 38.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 48,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 37.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 48,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 29.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 48,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 20.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 54,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 35.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 54,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 34.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 54,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 25.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 54,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 16.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 60,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 32.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 60,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 31.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 60,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 21.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 60,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 14.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 66,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 30.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 66,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 29.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 66,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 19.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 66,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 13.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 72,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 28.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 72,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 27.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 72,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 18.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 72,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 12.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 78,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 27.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 78,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 26.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 78,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 18.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 78,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 12.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 84,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 26.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 84,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 25.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 84,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 18.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 84,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 12.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 90,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 25.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 90,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 24.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 90,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 16.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 90,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 10.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 96,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 24.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 96,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 23.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 96,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 14.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 96,
+        "kmPerAnno": 40000,
+        "residualValuePrc": 8.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 102,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 23.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 102,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 22.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 102,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 12.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 108,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 22.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 108,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 21.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 108,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 11.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 114,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 21.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 114,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 20.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 114,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 10.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 120,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 20.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 120,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 19.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 120,
+        "kmPerAnno": 30000,
+        "residualValuePrc": 9.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 126,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 19.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 126,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 18.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 132,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 18.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 132,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 17.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 138,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 17.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 138,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 16.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 144,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 16.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 144,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 15.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 168,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 15.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 168,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 14.0
+    },
+    {
+        "residualValueClass": 2,
+        "term": 180,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 10.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 12,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 62.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 12,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 61.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 12,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 60.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 24,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 58.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 24,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 56.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 24,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 54.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 36,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 54.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 36,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 51.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 36,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 49.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 48,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 49.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 48,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 46.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 48,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 43.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 60,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 44.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 60,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 41.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 60,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 38.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 72,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 38.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 72,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 35.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 72,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 32.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 84,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 33.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 84,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 30.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 84,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 27.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 96,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 29.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 96,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 26.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 96,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 23.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 108,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 25.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 108,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 22.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 108,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 19.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 120,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 23.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 120,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 20.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 120,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 17.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 132,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 21.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 132,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 18.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 132,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 15.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 144,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 19.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 144,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 16.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 144,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 13.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 168,
+        "kmPerAnno": 10000,
+        "residualValuePrc": 16.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 168,
+        "kmPerAnno": 15000,
+        "residualValuePrc": 13.0
+    },
+    {
+        "residualValueClass": 3,
+        "term": 168,
+        "kmPerAnno": 20000,
+        "residualValuePrc": 10.0
+    }
+]

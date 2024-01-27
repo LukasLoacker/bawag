@@ -1,0 +1,3550 @@
+[
+    {
+        "key": "M74900",
+        "text": "Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a.n.g."
+    },
+    {
+        "key": "M75000",
+        "text": "Veterinärwesen"
+    },
+    {
+        "key": "N771",
+        "text": "Vermietung von Kraftwagen"
+    },
+    {
+        "key": "N7711",
+        "text": "Vermietung von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "key": "N77111",
+        "text": "Leasing von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "key": "N77112",
+        "text": "Vermietung von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "key": "L68209",
+        "text": "Sonstige Vermietung und Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "key": "H50200",
+        "text": "Güterbeförderung in der See- und Küstenschifffahrt"
+    },
+    {
+        "key": "H50300",
+        "text": "Personenbeförderung in der Binnenschifffahrt"
+    },
+    {
+        "key": "H50400",
+        "text": "Güterbeförderung in der Binnenschifffahrt"
+    },
+    {
+        "key": "H51100",
+        "text": "Personenbeförderung in der Luftfahrt"
+    },
+    {
+        "key": "H51210",
+        "text": "Güterbeförderung in der Luftfahrt"
+    },
+    {
+        "key": "H51220",
+        "text": "Raumtransport"
+    },
+    {
+        "key": "H52100",
+        "text": "Lagerei"
+    },
+    {
+        "key": "H5221",
+        "text": "Erbringung von sonstigen Dienstleistungen für den Landverkehr"
+    },
+    {
+        "key": "H52211",
+        "text": "Parkhäuser und Parkgaragen"
+    },
+    {
+        "key": "H52212",
+        "text": "Mautstraßen"
+    },
+    {
+        "key": "H52219",
+        "text": "Erbringung von sonstigen Dienstleistungen für den Landverkehr a.n.g."
+    },
+    {
+        "key": "H52220",
+        "text": "Erbringung von sonstigen Dienstleistungen für die Schifffahrt"
+    },
+    {
+        "key": "H52230",
+        "text": "Erbringung von sonstigen Dienstleistungen für die Luftfahrt"
+    },
+    {
+        "key": "H52240",
+        "text": "Frachtumschlag"
+    },
+    {
+        "key": "K65300",
+        "text": "Pensionskassen und Pensionsfonds"
+    },
+    {
+        "key": "K66120",
+        "text": "Effekten- und Warenhandel"
+    },
+    {
+        "key": "K66190",
+        "text": "Sonstige mit den Finanzdienstleistungen verbundene Tätigkeiten"
+    },
+    {
+        "key": "G47650",
+        "text": "Einzelhandel mit Spielwaren"
+    },
+    {
+        "key": "G47710",
+        "text": "Einzelhandel mit Bekleidung"
+    },
+    {
+        "key": "G4772",
+        "text": "Einzelhandel mit Schuhen und Lederwaren"
+    },
+    {
+        "key": "H52290",
+        "text": "Erbringung von sonstigen Dienstleistungen für den Verkehr a.n.g."
+    },
+    {
+        "key": "H53100",
+        "text": "Postdienste von Universaldienstleistungsanbietern"
+    },
+    {
+        "key": "H53200",
+        "text": "Sonstige Post-, Kurier- und Expressdienste"
+    },
+    {
+        "key": "I5510",
+        "text": "Hotels, Gasthöfe und Pensionen"
+    },
+    {
+        "key": "I55101",
+        "text": "Hotels"
+    },
+    {
+        "key": "I55102",
+        "text": "Gasthöfe"
+    },
+    {
+        "key": "I55103",
+        "text": "Pensionen"
+    },
+    {
+        "key": "I5520",
+        "text": "Ferienunterkünfte und ähnliche Beherbergungsstätten"
+    },
+    {
+        "key": "I55201",
+        "text": "Jugendherbergen"
+    },
+    {
+        "key": "I55202",
+        "text": "Schutzhütten"
+    },
+    {
+        "key": "I55203",
+        "text": "Ferienhäuser und Ferienwohnungen"
+    },
+    {
+        "key": "I55300",
+        "text": "Campingplätze"
+    },
+    {
+        "key": "I55900",
+        "text": "Sonstige Beherbergungsstätten"
+    },
+    {
+        "key": "I5610",
+        "text": "Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u.Ä."
+    },
+    {
+        "key": "I56101",
+        "text": "Restaurants und Gaststätten"
+    },
+    {
+        "key": "I56102",
+        "text": "Buffets und Imbißstuben"
+    },
+    {
+        "key": "I56104",
+        "text": "Eissalons"
+    },
+    {
+        "key": "I56210",
+        "text": "Event-Caterer"
+    },
+    {
+        "key": "I56290",
+        "text": "Erbringung sonstiger Verpflegungsdienstleistungen"
+    },
+    {
+        "key": "H49200",
+        "text": "Güterbeförderung im Eisenbahnverkehr"
+    },
+    {
+        "key": "I5630",
+        "text": "Ausschank von Getränken"
+    },
+    {
+        "key": "K6419033",
+        "text": "Landes-Hypothekenbanken N-MFI"
+    },
+    {
+        "key": "K6419039",
+        "text": "Bausparkassen N-MFI"
+    },
+    {
+        "key": "K6430",
+        "text": "Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen"
+    },
+    {
+        "key": "K64920",
+        "text": "Spezialkreditinstitute"
+    },
+    {
+        "key": "K651",
+        "text": "Versicherungen"
+    },
+    {
+        "key": "K66110",
+        "text": "Effekten- und Warenbörsen"
+    },
+    {
+        "key": "R9101014",
+        "text": "Bilbiotheken und Archive - Bund"
+    },
+    {
+        "key": "R9101015",
+        "text": "Bilbiotheken und Archive - Land"
+    },
+    {
+        "key": "R9101016",
+        "text": "Bilbiotheken und Archive - Gemeinde"
+    },
+    {
+        "key": "R9101018",
+        "text": "Bilbiotheken und Archive - Privat"
+    },
+    {
+        "key": "R9101021",
+        "text": "Bilbiotheken und Archive - kirchliche Stellen"
+    },
+    {
+        "key": "R9102014",
+        "text": "Museen - Bund"
+    },
+    {
+        "key": "R9102015",
+        "text": "Museen - Land"
+    },
+    {
+        "key": "R9102016",
+        "text": "Museen - Gemeinde"
+    },
+    {
+        "key": "R9102018",
+        "text": "Museen - Privat"
+    },
+    {
+        "key": "R9102021",
+        "text": "Museen - kirchliche Stellen"
+    },
+    {
+        "key": "R91030",
+        "text": "Betrieb von historischen Stätten und Gebäuden und ähnlichen Attraktionen"
+    },
+    {
+        "key": "R91040",
+        "text": "Botanische und zoologische Gärten sowie Naturparks"
+    },
+    {
+        "key": "R9200",
+        "text": "Spiel-, Wett- und Lotteriewesen"
+    },
+    {
+        "key": "R92001",
+        "text": "Wett-, Toto- und Lotteriewesen"
+    },
+    {
+        "key": "R92002",
+        "text": "Casinos"
+    },
+    {
+        "key": "R92003",
+        "text": "Betrieb von Glücksspielautomaten"
+    },
+    {
+        "key": "R931",
+        "text": "Erbringung von Dienstleistungen des Sports"
+    },
+    {
+        "key": "G47721",
+        "text": "Einzelhandel mit Schuhen"
+    },
+    {
+        "key": "G47722",
+        "text": "Einzelhandel mit Leder- und Taschnerwaren"
+    },
+    {
+        "key": "G47730",
+        "text": "Apotheken"
+    },
+    {
+        "key": "N77210",
+        "text": "Vermietung von Sport- und Freizeitgeräten"
+    },
+    {
+        "key": "R9311",
+        "text": "Betrieb von Sportanlagen"
+    },
+    {
+        "key": "R9311118",
+        "text": "Schwimmbäder und Schwimmstadien Privat"
+    },
+    {
+        "key": "S96030",
+        "text": "Bestattungswesen"
+    },
+    {
+        "key": "S9604",
+        "text": "Saunas, Solarien, Bäder u.Ä."
+    },
+    {
+        "key": "I56301",
+        "text": "Bars und Diskotheken"
+    },
+    {
+        "key": "I56309",
+        "text": "Sonstiger Ausschank von Getränken"
+    },
+    {
+        "key": "J58110",
+        "text": "Verlegen von Büchern"
+    },
+    {
+        "key": "J58120",
+        "text": "Verlegen von Adressbüchern und Verzeichnissen"
+    },
+    {
+        "key": "J58130",
+        "text": "Verlegen von Zeitungen"
+    },
+    {
+        "key": "J58140",
+        "text": "Verlegen von Zeitschriften"
+    },
+    {
+        "key": "J58190",
+        "text": "Sonstiges Verlagswesen (ohne Software)"
+    },
+    {
+        "key": "J58210",
+        "text": "Verlegen von Computerspielen"
+    },
+    {
+        "key": "J58290",
+        "text": "Verlegen von sonstiger Software"
+    },
+    {
+        "key": "J59110",
+        "text": "Herstellung von Filmen, Videofilmen und Fernsehprogrammen"
+    },
+    {
+        "key": "J59120",
+        "text": "Nachbearbeitung und sonstige Filmtechnik"
+    },
+    {
+        "key": "J59130",
+        "text": "Filmverleih und -vertrieb (ohne Videotheken)"
+    },
+    {
+        "key": "J59140",
+        "text": "Kinos"
+    },
+    {
+        "key": "J59200",
+        "text": "Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien"
+    },
+    {
+        "key": "J60100",
+        "text": "Hörfunkveranstalter"
+    },
+    {
+        "key": "J6010014",
+        "text": "Hörfunkveranstalter öffentlich"
+    },
+    {
+        "key": "J6010018",
+        "text": "Hörfunkveranstalter nicht öffentlih"
+    },
+    {
+        "key": "J60200",
+        "text": "Fernsehveranstalter"
+    },
+    {
+        "key": "J61100",
+        "text": "Leitungsgebundene Telekommunikation"
+    },
+    {
+        "key": "J61200",
+        "text": "Drahtlose Telekommunikation"
+    },
+    {
+        "key": "J61300",
+        "text": "Satellitentelekommunikation"
+    },
+    {
+        "key": "G46732",
+        "text": "Großhandel mit Baustoffen und Sanitärkeramik"
+    },
+    {
+        "key": "G46733",
+        "text": "Großhandel mit Flachglas, Anstrichmitteln, Tapeten und Bodenbelägen"
+    },
+    {
+        "key": "G46740",
+        "text": "Großhandel Metall- und Kunststoffwaren für Bauzwecke; Installationsbedarf für Gas, Wasser, Heizung"
+    },
+    {
+        "key": "G46750",
+        "text": "Großhandel mit chemischen Erzeugnissen"
+    },
+    {
+        "key": "G4676",
+        "text": "Großhandel mit sonstigen Halbwaren"
+    },
+    {
+        "key": "G46761",
+        "text": "Großhandel mit Papier und Pappe"
+    },
+    {
+        "key": "G46769",
+        "text": "Großhandel mit sonstigen Halbwaren a.n.g"
+    },
+    {
+        "key": "G46770",
+        "text": "Großhandel mit Altmaterialien und Reststoffen"
+    },
+    {
+        "key": "G46900",
+        "text": "Großhandel ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "key": "G47110",
+        "text": "Einzelhandel Waren verschiedener Art, Hauptrichtung Nahrungs-, Genussmittel, Getränke, Tabakwaren"
+    },
+    {
+        "key": "G4719",
+        "text": "Sonstiger Einzelhandel mit Waren verschiedener Art"
+    },
+    {
+        "key": "G47191",
+        "text": "Warenhäuser"
+    },
+    {
+        "key": "G47199",
+        "text": "Sonstiger Einzelhandel mit Waren verschiedener Art (ohne Warenhäuser)"
+    },
+    {
+        "key": "G47210",
+        "text": "Einzelhandel mit Obst, Gemüse und Kartoffeln"
+    },
+    {
+        "key": "G47220",
+        "text": "Einzelhandel mit Fleisch und Fleischwaren"
+    },
+    {
+        "key": "G47230",
+        "text": "Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen"
+    },
+    {
+        "key": "G47240",
+        "text": "Einzelhandel mit Back- und Süßwaren"
+    },
+    {
+        "key": "G47250",
+        "text": "Einzelhandel mit Getränken"
+    },
+    {
+        "key": "G47260",
+        "text": "Einzelhandel mit Tabakwaren"
+    },
+    {
+        "key": "L6820901",
+        "text": "Sonst. Vermietung, Verpachtung eigener od. geleaster Grundst., Gebäude, Wohnungen = GENOSSENSCHAFT"
+    },
+    {
+        "key": "L6820902",
+        "text": "Sonst. Vermietung, Verpachtung eigener od. geleaster Grundst., Gebäude, Wohnungen = E/A Rechner"
+    },
+    {
+        "key": "L683",
+        "text": "Vermittlung und Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+    },
+    {
+        "key": "L68310",
+        "text": "Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+    },
+    {
+        "key": "L68320",
+        "text": "Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte"
+    },
+    {
+        "key": "L6832001",
+        "text": "Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte WOHNBAUGESELLSCHAFTEN"
+    },
+    {
+        "key": "M69100",
+        "text": "Rechtsberatung"
+    },
+    {
+        "key": "M69200",
+        "text": "Wirtschaftsprüfung und Steuerberatung; Buchführung"
+    },
+    {
+        "key": "M70100",
+        "text": "Verwaltung und Führung von Unternehmen und Betrieben"
+    },
+    {
+        "key": "M702",
+        "text": "Public-Relations- und Unternehmensberatung"
+    },
+    {
+        "key": "M70210",
+        "text": "Public-Relations-Beratung"
+    },
+    {
+        "key": "N77220",
+        "text": "Videotheken"
+    },
+    {
+        "key": "N77120",
+        "text": "Vermietung von Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t"
+    },
+    {
+        "key": "N77290",
+        "text": "Vermietung von sonstigen Gebrauchsgütern"
+    },
+    {
+        "key": "N77310",
+        "text": "Vermietung von landwirtschaftlichen Maschinen und Geräten"
+    },
+    {
+        "key": "N77320",
+        "text": "Vermietung von Baumaschinen und -geräten"
+    },
+    {
+        "key": "N77330",
+        "text": "Vermietung von Büromaschinen, Datenverarbeitungsgeräten und -einrichtungen"
+    },
+    {
+        "key": "N77340",
+        "text": "Vermietung von Wasserfahrzeugen"
+    },
+    {
+        "key": "N77350",
+        "text": "Vermietung von Luftfahrzeugen"
+    },
+    {
+        "key": "N77390",
+        "text": "Vermietung von sonstigen Maschinen, Geräten und beweglichen Sachen a.n.g."
+    },
+    {
+        "key": "N77400",
+        "text": "Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights)"
+    },
+    {
+        "key": "N78100",
+        "text": "Vermittlung von Arbeitskräften"
+    },
+    {
+        "key": "N78200",
+        "text": "Befristete Überlassung von Arbeitskräften"
+    },
+    {
+        "key": "N78300",
+        "text": "Sonstige Überlassung von Arbeitskräften"
+    },
+    {
+        "key": "N791",
+        "text": "Reisebüros und Reiseveranstalter"
+    },
+    {
+        "key": "N79110",
+        "text": "Reisebüros"
+    },
+    {
+        "key": "N79120",
+        "text": "Reiseveranstalter"
+    },
+    {
+        "key": "N7990",
+        "text": "Erbringung sonstiger Reservierungsdienstleistungen"
+    },
+    {
+        "key": "N79901",
+        "text": "Reise- und Fremdenführer"
+    },
+    {
+        "key": "N79902",
+        "text": "Tourismusbüros"
+    },
+    {
+        "key": "N79909",
+        "text": "Erbringung sonstiger Reservierungsdienstleistungen a.n.g."
+    },
+    {
+        "key": "N80100",
+        "text": "Private Wach- und Sicherheitsdienste"
+    },
+    {
+        "key": "N80200",
+        "text": "Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen"
+    },
+    {
+        "key": "N80300",
+        "text": "Detekteien"
+    },
+    {
+        "key": "N8110",
+        "text": "Hausmeisterdienste"
+    },
+    {
+        "key": "N81101",
+        "text": "Hauswartung"
+    },
+    {
+        "key": "N81102",
+        "text": "Facility Management (ohne Hauswartung)"
+    },
+    {
+        "key": "N81210",
+        "text": "Allgemeine Gebäudereinigung"
+    },
+    {
+        "key": "N8122",
+        "text": "Spezielle Reinigung von Gebäuden und Reinigung von Maschinen"
+    },
+    {
+        "key": "N81221",
+        "text": "Rauchfangkehrerinnen und -kehrer"
+    },
+    {
+        "key": "N8129",
+        "text": "Reinigung a.n.g."
+    },
+    {
+        "key": "N81291",
+        "text": "Schneeräumung"
+    },
+    {
+        "key": "N81299",
+        "text": "Sonstige Reinigung a.n.g."
+    },
+    {
+        "key": "N81229",
+        "text": "Spezielle Reinigung von Gebäuden und Maschinen a.n.g."
+    },
+    {
+        "key": "N81300",
+        "text": "Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen"
+    },
+    {
+        "key": "N82110",
+        "text": "Allgemeine Sekretariats- und Schreibdienste"
+    },
+    {
+        "key": "N82190",
+        "text": "Copy-Shops; Dokumentenvorbereitung und Erbringung sonstiger spezieller Sekretariatsdienste"
+    },
+    {
+        "key": "N82200",
+        "text": "Call Centers"
+    },
+    {
+        "key": "N82300",
+        "text": "Messe-, Ausstellungs- und Kongressveranstalter"
+    },
+    {
+        "key": "N82910",
+        "text": "Inkassobüros und Auskunfteien"
+    },
+    {
+        "key": "N82920",
+        "text": "Abfüllen und Verpacken"
+    },
+    {
+        "key": "N82990",
+        "text": "Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen a.n.g."
+    },
+    {
+        "key": "O84110",
+        "text": "Allgemeine öffentliche Verwaltung"
+    },
+    {
+        "key": "O8411014",
+        "text": "Allgemeine öffentliche Verwaltung Bund"
+    },
+    {
+        "key": "G47290",
+        "text": "Sonstiger Einzelhandel mit Nahrungs- und Genussmitteln"
+    },
+    {
+        "key": "O8411015",
+        "text": "Allgemeine öffentliche Verwaltung Land"
+    },
+    {
+        "key": "R9311914",
+        "text": "Betrieb von sonstigen Sportanlagen Bund"
+    },
+    {
+        "key": "R9311915",
+        "text": "Betrieb von sonstigen Sportanlagen Land"
+    },
+    {
+        "key": "R9311916",
+        "text": "Betrieb von sonstigen Sportanlagen Gemeinde"
+    },
+    {
+        "key": "R9311918",
+        "text": "Betrieb von sonstigen Sportanlagen sonstige Privat"
+    },
+    {
+        "key": "R93120",
+        "text": "Sportvereine"
+    },
+    {
+        "key": "R93130",
+        "text": "Fitnesszentren"
+    },
+    {
+        "key": "R93190",
+        "text": "Erbringung von sonstigen Dienstleistungen des Sports"
+    },
+    {
+        "key": "R93210",
+        "text": "Vergnügungs- und Themenparks"
+    },
+    {
+        "key": "R93290",
+        "text": "Erbringung von Dienstleistungen der Unterhaltung und der Erholung a.n.g."
+    },
+    {
+        "key": "S94110",
+        "text": "Wirtschafts- und Arbeitgeberverbände"
+    },
+    {
+        "key": "S9411014",
+        "text": "Wirtschafts- und Arbeitgeberverbände - Bundeskammern"
+    },
+    {
+        "key": "S9411015",
+        "text": "Wirtschafts- und Arbeitgeberverbände - Landeskammern"
+    },
+    {
+        "key": "H49500",
+        "text": "Transport in Rohrfernleitungen"
+    },
+    {
+        "key": "H50100",
+        "text": "Personenbeförderung in der See- und Küstenschifffahrt"
+    },
+    {
+        "key": "G47300",
+        "text": "Einzelhandel mit Motorenkraftstoffen (Tankstellen)"
+    },
+    {
+        "key": "G474",
+        "text": "Einzelhandel mit Geräten der Informations- und Kommunikationstechnik (in Verkaufsräumen)"
+    },
+    {
+        "key": "G47410",
+        "text": "Einzelhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software"
+    },
+    {
+        "key": "G47420",
+        "text": "Einzelhandel mit Telekommunikationsgeräten"
+    },
+    {
+        "key": "G47430",
+        "text": "Einzelhandel mit Geräten der Unterhaltungselektronik"
+    },
+    {
+        "key": "G47510",
+        "text": "Einzelhandel mit Textilien"
+    },
+    {
+        "key": "G47520",
+        "text": "Einzelhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf"
+    },
+    {
+        "key": "G47530",
+        "text": "Einzelhandel mit Vorhängen, Teppichen, Fußbodenbelägen und Tapeten"
+    },
+    {
+        "key": "G47540",
+        "text": "Einzelhandel mit elektrischen Haushaltsgeräten"
+    },
+    {
+        "key": "G4759",
+        "text": "Einzelhandel mit Möbeln, Einrichtungsgegenständen und sonstigem Hausrat"
+    },
+    {
+        "key": "G47591",
+        "text": "Einzelhandel mit Musikinstrumenten und Musikalien"
+    },
+    {
+        "key": "G47592",
+        "text": "Einzelhandel mit Wohnmöbeln"
+    },
+    {
+        "key": "G47599",
+        "text": "Einzelhandel mit Einrichtungsgegenständen und Hausrat a.n.g."
+    },
+    {
+        "key": "G47610",
+        "text": "Einzelhandel mit Büchern"
+    },
+    {
+        "key": "G47620",
+        "text": "Einzelhandel mit Zeitschriften, Zeitungen, Schreibwaren und Bürobedarf"
+    },
+    {
+        "key": "G47630",
+        "text": "Einzelhandel mit bespielten Ton- und Bildträgern"
+    },
+    {
+        "key": "G47640",
+        "text": "Einzelhandel mit Fahrrädern, Sport- und Campingartikeln"
+    },
+    {
+        "key": "I56103",
+        "text": "Cafehäuser"
+    },
+    {
+        "key": "J61900",
+        "text": "Sonstige Telekommunikation"
+    },
+    {
+        "key": "J62010",
+        "text": "Programmierungstätigkeiten"
+    },
+    {
+        "key": "J62020",
+        "text": "Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie"
+    },
+    {
+        "key": "J62030",
+        "text": "Betrieb von Datenverarbeitungsanlagen für Dritte"
+    },
+    {
+        "key": "J62090",
+        "text": "Erbringung von sonstigen Dienstleistungen der Informationstechnologie"
+    },
+    {
+        "key": "J63110",
+        "text": "Datenverarbeitung, Hosting und damit verbundene Tätigkeiten"
+    },
+    {
+        "key": "J63120",
+        "text": "Webportale"
+    },
+    {
+        "key": "J63910",
+        "text": "Korrespondenz- und Nachrichtenbüros"
+    },
+    {
+        "key": "C31011",
+        "text": "Herstellung von Büromöbeln"
+    },
+    {
+        "key": "C20130",
+        "text": "Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien"
+    },
+    {
+        "key": "C20140",
+        "text": "Herstellung von sonstigen organischen Grundstoffen und Chemikalien"
+    },
+    {
+        "key": "C20150",
+        "text": "Herstellung von Düngemitteln und Stickstoffverbindungen"
+    },
+    {
+        "key": "C20160",
+        "text": "Herstellung von Kunststoffen in Primärformen"
+    },
+    {
+        "key": "C20170",
+        "text": "Herstellung von synthetischem Kautschuk in Primärformen"
+    },
+    {
+        "key": "C20200",
+        "text": "Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln"
+    },
+    {
+        "key": "C20300",
+        "text": "Herstellung von Anstrichmitteln, Druckfarben und Kitten"
+    },
+    {
+        "key": "C20410",
+        "text": "Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln"
+    },
+    {
+        "key": "C20420",
+        "text": "Herstellung von Körperpflegemitteln und Duftstoffen"
+    },
+    {
+        "key": "C20510",
+        "text": "Herstellung von pyrotechnischen Erzeugnissen"
+    },
+    {
+        "key": "C20520",
+        "text": "Herstellung von Klebstoffen"
+    },
+    {
+        "key": "C20530",
+        "text": "Herstellung von etherischen Ölen"
+    },
+    {
+        "key": "C20590",
+        "text": "Herstellung von sonstigen chemischen Erzeugnissen a.n.g."
+    },
+    {
+        "key": "C20600",
+        "text": "Herstellung von Chemiefasern"
+    },
+    {
+        "key": "C21100",
+        "text": "Herstellung von pharmazeutischen Grundstoffen"
+    },
+    {
+        "key": "C21200",
+        "text": "Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen"
+    },
+    {
+        "key": "C17110",
+        "text": "Herstellung von Holz- und Zellstoff"
+    },
+    {
+        "key": "C17120",
+        "text": "Herstellung von Papier, Karton und Pappe"
+    },
+    {
+        "key": "C17210",
+        "text": "Herstellung von Wellpapier und -pappe sowie von Verpackungsmitteln aus Papier, Karton und Pappe"
+    },
+    {
+        "key": "C17220",
+        "text": "Herstellung von Haushalts-, Hygiene- und Toilettenartikeln aus Zellstoff, Papier und Pappe"
+    },
+    {
+        "key": "C17230",
+        "text": "Herstellung von Schreibwaren und Bürobedarf aus Papier, Karton und Pappe"
+    },
+    {
+        "key": "C17240",
+        "text": "Herstellung von Tapeten"
+    },
+    {
+        "key": "C17290",
+        "text": "Herstellung von sonstigen Waren aus Papier, Karton und Pappe"
+    },
+    {
+        "key": "C18110",
+        "text": "Drucken von Zeitungen"
+    },
+    {
+        "key": "C18120",
+        "text": "Drucken a.n.g."
+    },
+    {
+        "key": "C18130",
+        "text": "Druck- und Medienvorstufe"
+    },
+    {
+        "key": "C18140",
+        "text": "Binden von Druckerzeugnissen und damit verbundene Dienstleistungen"
+    },
+    {
+        "key": "C18200",
+        "text": "Vervielfältigung von bespielten Ton-, Bild- und Datenträgern"
+    },
+    {
+        "key": "C19100",
+        "text": "Kokerei"
+    },
+    {
+        "key": "C19200",
+        "text": "Mineralölverarbeitung"
+    },
+    {
+        "key": "C20110",
+        "text": "Herstellung von Industriegasen"
+    },
+    {
+        "key": "C20120",
+        "text": "Herstellung von Farbstoffen und Pigmenten"
+    },
+    {
+        "key": "C31012",
+        "text": "Herstellung von Ladenmöbeln"
+    },
+    {
+        "key": "C23420",
+        "text": "Herstellung von Sanitärkeramik"
+    },
+    {
+        "key": "C23430",
+        "text": "Herstellung von Isolatoren und Isolierteilen aus Keramik"
+    },
+    {
+        "key": "C23490",
+        "text": "Herstellung von sonstigen keramischen Erzeugnissen"
+    },
+    {
+        "key": "C23510",
+        "text": "Herstellung von Zement"
+    },
+    {
+        "key": "C23520",
+        "text": "Herstellung von Kalk und gebranntem Gips"
+    },
+    {
+        "key": "C23610",
+        "text": "Herstellung von Erzeugnissen aus Beton, Zement und Kalksandstein für den Bau"
+    },
+    {
+        "key": "C23620",
+        "text": "Herstellung von Gipserzeugnissen für den Bau"
+    },
+    {
+        "key": "P85600",
+        "text": "Erbringung von Dienstleistungen für den Unterricht"
+    },
+    {
+        "key": "Q8610014",
+        "text": "Krankenhäuser Bund"
+    },
+    {
+        "key": "Q8610015",
+        "text": "Krankenhäuser Land"
+    },
+    {
+        "key": "Q8610016",
+        "text": "Krankenhäuser Gemeinde"
+    },
+    {
+        "key": "Q8610018",
+        "text": "Krankenhäuser privat"
+    },
+    {
+        "key": "Q8610021",
+        "text": "Krankenhäuser von kirchlichen Stellen"
+    },
+    {
+        "key": "Q86210",
+        "text": "Arztpraxen für Allgemeinmedizin"
+    },
+    {
+        "key": "Q86220",
+        "text": "Facharztpraxen"
+    },
+    {
+        "key": "Q86230",
+        "text": "Zahnarztpraxen"
+    },
+    {
+        "key": "Q8690",
+        "text": "Gesundheitswesen a.n.g."
+    },
+    {
+        "key": "Q86901",
+        "text": "Krankentransporte und Rettungsdienste"
+    },
+    {
+        "key": "Q86902",
+        "text": "Hauskrankenpflege"
+    },
+    {
+        "key": "Q86903",
+        "text": "Psychothearpeutinnen und -therapeuten, , Klinische und Gesundheitspsychologinnen und -psychologen"
+    },
+    {
+        "key": "S9412021",
+        "text": "Berufsorganisationen a.n.g."
+    },
+    {
+        "key": "S94200",
+        "text": "Arbeitnehmervereinigungen"
+    },
+    {
+        "key": "S9420014",
+        "text": "Berufsorganisationen - Bundeskammern"
+    },
+    {
+        "key": "S9420015",
+        "text": "Berufsorganisationen - Landeskammern"
+    },
+    {
+        "key": "K66210",
+        "text": "Risiko- und Schadensbewertung"
+    },
+    {
+        "key": "K66220",
+        "text": "Tätigkeit von Versicherungsmaklerinnen und -maklern"
+    },
+    {
+        "key": "K66290",
+        "text": "Sonstige mit den Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten"
+    },
+    {
+        "key": "S96022",
+        "text": "Kosmetiksalons"
+    },
+    {
+        "key": "S96023",
+        "text": "Fußpflege"
+    },
+    {
+        "key": "S9420021",
+        "text": "Arbeitnehmervereinigungen - Gewerkschaften"
+    },
+    {
+        "key": "S94910",
+        "text": "Kirchliche und sonstige religiöse Vereinigungen"
+    },
+    {
+        "key": "S9491099",
+        "text": "gesetzlich anerkannte Kirchen u. Religionsgemeinschaften"
+    },
+    {
+        "key": "S94920",
+        "text": "Politische Parteien und Vereinigungen"
+    },
+    {
+        "key": "S94990",
+        "text": "Sonstige Interessenvertretungen und Vereinigungen a.n.g."
+    },
+    {
+        "key": "S9499021",
+        "text": "Sonstige Interessenvertretungen und Vereinigungen a.n.g. - Freiwillige Feuerwehren"
+    },
+    {
+        "key": "S9499099",
+        "text": "mit Staat äquiv. PSE"
+    },
+    {
+        "key": "S95110",
+        "text": "Reparatur von Datenverarbeitungsgeräten und peripheren Geräten"
+    },
+    {
+        "key": "S95120",
+        "text": "Reparatur von Telekommunikationsgeräten"
+    },
+    {
+        "key": "S95210",
+        "text": "Reparatur von Geräten der Unterhaltungselektronik"
+    },
+    {
+        "key": "S95220",
+        "text": "Reparatur von elektrischen Haushaltsgeräten und Gartengeräten"
+    },
+    {
+        "key": "S95230",
+        "text": "Reparatur von Schuhen und Lederwaren"
+    },
+    {
+        "key": "S95240",
+        "text": "Reparatur von Möbeln und Einrichtungsgegenständen"
+    },
+    {
+        "key": "S95250",
+        "text": "Reparatur von Uhren und Schmuck"
+    },
+    {
+        "key": "S95290",
+        "text": "Reparatur von sonstigen Gebrauchsgütern"
+    },
+    {
+        "key": "S9601",
+        "text": "Wäscherei und chemische Reinigung"
+    },
+    {
+        "key": "S96011",
+        "text": "Wäschereien"
+    },
+    {
+        "key": "S96012",
+        "text": "Chemische Reinigung und Bekleidungsfärberei"
+    },
+    {
+        "key": "S9602",
+        "text": "Frisör- und Kosmetiksalons"
+    },
+    {
+        "key": "S96021",
+        "text": "Frisörsalons"
+    },
+    {
+        "key": "K66300",
+        "text": "Fondsmanagement (zB. Management von Investmentfonds oder MUTUAL FONDS)"
+    },
+    {
+        "key": "L68100",
+        "text": "Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "key": "L6820",
+        "text": "Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "key": "L68201",
+        "text": "Leasing von Grundstücken, Gebäuden und Wohnungen"
+    },
+    {
+        "key": "O8411016",
+        "text": "Allgemeine öffentliche Verwaltung Gemeinde"
+    },
+    {
+        "key": "O8411116",
+        "text": "Allgemeine öffentliche Verwaltung Gemeinde - Infrastruktur KEGs"
+    },
+    {
+        "key": "O8411117",
+        "text": "Allgemeine öffentliche Verwaltung Gemeinde - 020401"
+    },
+    {
+        "key": "O84120",
+        "text": "Öffentliche Verwaltung auf den Gebieten Gesundheitswesen, Bildung, Kultur und Sozialwesen"
+    },
+    {
+        "key": "O84130",
+        "text": "Wirtschaftsförderung, -ordnung und -aufsicht"
+    },
+    {
+        "key": "O84210",
+        "text": "Auswärtige Angelegenheiten Bund"
+    },
+    {
+        "key": "O84220",
+        "text": "Verteidigung Bund"
+    },
+    {
+        "key": "O84230",
+        "text": "Justiz Bund"
+    },
+    {
+        "key": "O84240",
+        "text": "Öffentliche Sicherheit und Ordnung Bund"
+    },
+    {
+        "key": "O8425014",
+        "text": "Feuerwehren Bund"
+    },
+    {
+        "key": "O8425015",
+        "text": "Feuerwehren Land"
+    },
+    {
+        "key": "O8425016",
+        "text": "Feuerwehren GEMEINDE(STÄDTE)"
+    },
+    {
+        "key": "O84300",
+        "text": "Sozialversicherung"
+    },
+    {
+        "key": "Q8690914",
+        "text": "Sonstiges Gesundheitswesen a.n.g. Bund"
+    },
+    {
+        "key": "Q8690915",
+        "text": "Sonstiges Gesundheitswesen a.n.g. Land"
+    },
+    {
+        "key": "Q8690916",
+        "text": "Sonstiges Gesundheitswesen a.n.g. Gemeinde"
+    },
+    {
+        "key": "Q8690918",
+        "text": "Sonstiges Gesundheitswesen a.n.g. privat"
+    },
+    {
+        "key": "Q8690921",
+        "text": "Sonstiges Gesundheitswesen a.n.g. von kirchlichen Stellen"
+    },
+    {
+        "key": "Q8710014",
+        "text": "Pflegeheime Bund"
+    },
+    {
+        "key": "Q8710015",
+        "text": "Pflegeheime Land"
+    },
+    {
+        "key": "Q8710016",
+        "text": "Pflegeheime Gemeinde"
+    },
+    {
+        "key": "Q8710018",
+        "text": "Pflegeheime privat"
+    },
+    {
+        "key": "Q8710021",
+        "text": "Pflegeheime von kirchlichen Stellen"
+    },
+    {
+        "key": "Q8720014",
+        "text": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä. Bund"
+    },
+    {
+        "key": "Q8720015",
+        "text": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä. Land"
+    },
+    {
+        "key": "Q8720016",
+        "text": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä. Gemeinde"
+    },
+    {
+        "key": "Q8720018",
+        "text": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä. privat"
+    },
+    {
+        "key": "Q8720021",
+        "text": "Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u.Ä. von kirchlichen Stellen"
+    },
+    {
+        "key": "Q8730014",
+        "text": "Altenheime; Alten- und Behindertenwohnheime Bund"
+    },
+    {
+        "key": "Q8730015",
+        "text": "Altenheime; Alten- und Behindertenwohnheime Land"
+    },
+    {
+        "key": "Q8730016",
+        "text": "Altenheime; Alten- und Behindertenwohnheime Gemeinde"
+    },
+    {
+        "key": "Q8730018",
+        "text": "Altenheime; Alten- und Behindertenwohnheime privat"
+    },
+    {
+        "key": "M70220",
+        "text": "Unternehmensberatung"
+    },
+    {
+        "key": "M711",
+        "text": "Architektur- und Ingenieurbüros"
+    },
+    {
+        "key": "M71110",
+        "text": "Architekturbüros"
+    },
+    {
+        "key": "M71120",
+        "text": "Ingenieurbüros"
+    },
+    {
+        "key": "M71200",
+        "text": "Technische, physikalische und chemische Untersuchung"
+    },
+    {
+        "key": "M72110",
+        "text": "Forschung und Entwicklung im Bereich Biotechnologie"
+    },
+    {
+        "key": "M72190",
+        "text": "Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin"
+    },
+    {
+        "key": "M72200",
+        "text": "Forschung, Entwicklung Bereich Rechts-, Wirtschafts-, Sozial-, Sprach-, Kultur-, Kunstwissenschaften"
+    },
+    {
+        "key": "M7311",
+        "text": "Werbeagenturen"
+    },
+    {
+        "key": "M73111",
+        "text": "Werbegestaltung"
+    },
+    {
+        "key": "M73112",
+        "text": "Werbemittelverbreitung"
+    },
+    {
+        "key": "M73120",
+        "text": "Vermarktung und Vermittlung von Werbezeiten und Werbeflächen"
+    },
+    {
+        "key": "M73200",
+        "text": "Markt- und Meinungsforschung"
+    },
+    {
+        "key": "M74100",
+        "text": "Ateliers für Textil-, Schmuck-, Grafik- u.ä. Design"
+    },
+    {
+        "key": "M74200",
+        "text": "Fotografie und Fotolabors"
+    },
+    {
+        "key": "M74300",
+        "text": "Übersetzen und Dolmetschen"
+    },
+    {
+        "key": "G46480",
+        "text": "Großhandel mit Uhren und Schmuck"
+    },
+    {
+        "key": "G4649",
+        "text": "Großhandel mit sonstigen Gebrauchs- und Verbrauchsgütern"
+    },
+    {
+        "key": "G46491",
+        "text": "Großhandel mit Schreibwaren und Bürobedarf"
+    },
+    {
+        "key": "G46492",
+        "text": "Großhandel mit Büchern, Zeitschriften und Zeitungen"
+    },
+    {
+        "key": "G46493",
+        "text": "Großhandel mit Sportartikeln"
+    },
+    {
+        "key": "G46494",
+        "text": "Großhandel mit Spielwaren und Musikinstrumenten"
+    },
+    {
+        "key": "G46499",
+        "text": "Großhandel mit sonstigen Gebrauchs- und Verbrauchsgütern a.n.g."
+    },
+    {
+        "key": "G465",
+        "text": "Großhandel mit Geräten der Informations- und Kommunikationstechnik"
+    },
+    {
+        "key": "G4651",
+        "text": "Großhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software"
+    },
+    {
+        "key": "G46511",
+        "text": "Großhandel mit Datenverarbeitungsgeräten und peripheren Einheiten"
+    },
+    {
+        "key": "G46512",
+        "text": "Großhandel mit Standardsoftware"
+    },
+    {
+        "key": "G46520",
+        "text": "Großhandel mit elektronischen Bauteilen und Telekommunikationsgeräten"
+    },
+    {
+        "key": "G46620",
+        "text": "Großhandel mit Werkzeugmaschinen"
+    },
+    {
+        "key": "G46630",
+        "text": "Großhandel mit Bergwerks-, Bau- und Baustoffmaschinen"
+    },
+    {
+        "key": "G46640",
+        "text": "Großhandel mit Textil-, Näh- und Strickmaschinen"
+    },
+    {
+        "key": "G46650",
+        "text": "Großhandel mit Büromöbeln"
+    },
+    {
+        "key": "G46660",
+        "text": "Großhandel mit sonstigen Büromaschinen und -einrichtungen"
+    },
+    {
+        "key": "G4671",
+        "text": "Großhandel mit festen Brennstoffen und Mineralölerzeugnissen"
+    },
+    {
+        "key": "G46711",
+        "text": "Großhandel mit festen Brennstoffen"
+    },
+    {
+        "key": "P8510014",
+        "text": "Kindergärten und Vorschulen    BUND"
+    },
+    {
+        "key": "P8510015",
+        "text": "Kindergärten und Vorschulen    LAND"
+    },
+    {
+        "key": "P8510016",
+        "text": "Kindergärten und Vorschulen    GEMEINDE"
+    },
+    {
+        "key": "P8510070",
+        "text": "Kindergärten und Vorschulen    PRIVAT"
+    },
+    {
+        "key": "P8510021",
+        "text": "Kindergärten und Vorschulen von kirchlichen Stellen"
+    },
+    {
+        "key": "P8520014",
+        "text": "Volksschulen - Bund"
+    },
+    {
+        "key": "P8520015",
+        "text": "Volksschulen  - Land"
+    },
+    {
+        "key": "P8520016",
+        "text": "Volksschulen - Gemeinde"
+    },
+    {
+        "key": "P8520018",
+        "text": "Volksschulen Privat"
+    },
+    {
+        "key": "P8520021",
+        "text": "Volksschulen von kirchlichen Stellen"
+    },
+    {
+        "key": "P85311",
+        "text": "Hauptschulen und Polytechnische Lehrgänge"
+    },
+    {
+        "key": "P8531214",
+        "text": "Allgemein bildende höhere Schulen       Bund"
+    },
+    {
+        "key": "P8531215",
+        "text": "Allgemein bildende höhere Schulen       LAND"
+    },
+    {
+        "key": "P8531216",
+        "text": "Allgemein bildende höhere Schulen  GEMEINDE"
+    },
+    {
+        "key": "P8531218",
+        "text": "Allgemein bildende höhere Schulen   privat"
+    },
+    {
+        "key": "P8531221",
+        "text": "Allgemein bildende höhere Schulen von kirchlichen Stellen"
+    },
+    {
+        "key": "P8532114",
+        "text": "Berufsbildende Pflichtschulen Bund"
+    },
+    {
+        "key": "P8532115",
+        "text": "Berufsbildende Pflichtschulen Land"
+    },
+    {
+        "key": "P8532116",
+        "text": "Berufsbildende Pflichtschulen Gemeinde"
+    },
+    {
+        "key": "P8532118",
+        "text": "Berufsbildende Pflichtschulen privat"
+    },
+    {
+        "key": "P8532121",
+        "text": "Berufsbildende Pflichtschulen von krichlichen Stellen"
+    },
+    {
+        "key": "P8532214",
+        "text": "Berufsbildende mittlere Schulen Bund"
+    },
+    {
+        "key": "P8532215",
+        "text": "Berufsbildende mittlere Schulen Land"
+    },
+    {
+        "key": "P8532216",
+        "text": "Berufsbildende mittlere Schulen Gemeinde"
+    },
+    {
+        "key": "G46610",
+        "text": "Großhandel mit landwirtschaftlichen Maschinen und Geräten"
+    },
+    {
+        "key": "G46160",
+        "text": "Handelsvermittlung von Textilien, Bekleidung, Schuhen und Lederwaren"
+    },
+    {
+        "key": "G46170",
+        "text": "Handelsvermittlung von Nahrungsmitteln, Getränken und Tabakwaren"
+    },
+    {
+        "key": "G46180",
+        "text": "Handelsvermittlung von sonstigen Waren"
+    },
+    {
+        "key": "G46190",
+        "text": "Handelsvermittlung von Waren ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "key": "G46210",
+        "text": "Großhandel mit Getreide, Rohtabak, Saatgut und Futtermitteln"
+    },
+    {
+        "key": "G46220",
+        "text": "Großhandel mit Blumen und Pflanzen"
+    },
+    {
+        "key": "G46230",
+        "text": "Großhandel mit lebenden Tieren"
+    },
+    {
+        "key": "G46240",
+        "text": "Großhandel mit Häuten, Fellen und Leder"
+    },
+    {
+        "key": "G46310",
+        "text": "Großhandel mit Obst, Gemüse und Kartoffeln"
+    },
+    {
+        "key": "G46320",
+        "text": "Großhandel mit Fleisch und Fleischwaren"
+    },
+    {
+        "key": "G46330",
+        "text": "Großhandel mit Milch, Milcherzeugnissen, Eiern, Speiseölen und Nahrungsfetten"
+    },
+    {
+        "key": "G4634",
+        "text": "Großhandel mit Getränken"
+    },
+    {
+        "key": "G46341",
+        "text": "Großhandel mit Wein und Spirituosen"
+    },
+    {
+        "key": "G46349",
+        "text": "Großhandel mit sonstigen Getränken"
+    },
+    {
+        "key": "G46350",
+        "text": "Großhandel mit Tabakwaren"
+    },
+    {
+        "key": "G46360",
+        "text": "Großhandel mit Zucker, Süßwaren und Backwaren"
+    },
+    {
+        "key": "G46370",
+        "text": "Großhandel mit Kaffee, Tee, Kakao und Gewürzen"
+    },
+    {
+        "key": "G46380",
+        "text": "Großhandel mit sonstigen Nahrungs- und Genussmitteln"
+    },
+    {
+        "key": "G46390",
+        "text": "Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "key": "G46410",
+        "text": "Großhandel mit Textilien"
+    },
+    {
+        "key": "G4642",
+        "text": "Großhandel mit Bekleidung und Schuhen"
+    },
+    {
+        "key": "G46421",
+        "text": "Großhandel mit Bekleidung"
+    },
+    {
+        "key": "G46422",
+        "text": "Großhandel mit Schuhen"
+    },
+    {
+        "key": "G4643",
+        "text": "Großhandel Foto- und optischer Erzeugnisse, elektrischen Haushalts-, Unterhaltungselektronikgeräten"
+    },
+    {
+        "key": "G46431",
+        "text": "Großhandel mit Foto- und optischen Erzeugnissen"
+    },
+    {
+        "key": "G46432",
+        "text": "Großhandel mit elektrischen Haushaltsgeräten"
+    },
+    {
+        "key": "G46433",
+        "text": "Großhandel mit Geräten der Unterhaltungselektronik"
+    },
+    {
+        "key": "G46440",
+        "text": "Großhandel mit keramischen Erzeugnissen, Glaswaren und Reinigungsmitteln"
+    },
+    {
+        "key": "G46690",
+        "text": "Großhandel mit sonstigen Maschinen und Ausrüstungen"
+    },
+    {
+        "key": "G46722",
+        "text": "Großhandel mit NE-Metallen und Halbzeug"
+    },
+    {
+        "key": "A011",
+        "text": "Anbau einjähriger Pflanzen"
+    },
+    {
+        "key": "A01110",
+        "text": "Anbau von Getreide (ohne Reis), Hülsenfrüchten und Ölsaaten"
+    },
+    {
+        "key": "A01120",
+        "text": "Anbau von Reis"
+    },
+    {
+        "key": "A01130",
+        "text": "Anbau von Gemüse und Melonen sowie Wurzeln und Knollen"
+    },
+    {
+        "key": "A01140",
+        "text": "Anbau von Zuckerrohr"
+    },
+    {
+        "key": "A01150",
+        "text": "Anbau von Tabak"
+    },
+    {
+        "key": "A01160",
+        "text": "Anbau von Faserpflanzen"
+    },
+    {
+        "key": "A01190",
+        "text": "Anbau von sonstigen einjährigen Pflanzen"
+    },
+    {
+        "key": "A012",
+        "text": "Anbau mehrjähriger Pflanzen"
+    },
+    {
+        "key": "D35210",
+        "text": "Gaserzeugung"
+    },
+    {
+        "key": "D35220",
+        "text": "Gasverteilung durch Rohrleitungen"
+    },
+    {
+        "key": "D35230",
+        "text": "Gashandel durch Rohrleitungen"
+    },
+    {
+        "key": "D35300",
+        "text": "Wärme- und Kälteversorgung"
+    },
+    {
+        "key": "E36000",
+        "text": "Wasserversorgung"
+    },
+    {
+        "key": "E37000",
+        "text": "Abwasserentsorgung"
+    },
+    {
+        "key": "C28920",
+        "text": "Herstellung von Bergwerks-, Bau- und Baustoffmaschinen"
+    },
+    {
+        "key": "C26520",
+        "text": "Herstellung von Uhren"
+    },
+    {
+        "key": "C26600",
+        "text": "Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten"
+    },
+    {
+        "key": "C26700",
+        "text": "Herstellung von optischen und fotografischen Instrumenten und Geräten"
+    },
+    {
+        "key": "C26800",
+        "text": "Herstellung von magnetischen und optischen Datenträgern"
+    },
+    {
+        "key": "C27110",
+        "text": "Herstellung von Elektromotoren, Generatoren und Transformatoren"
+    },
+    {
+        "key": "C27120",
+        "text": "Herstellung von Elektrizitätsverteilungs- und -schalteinrichtungen"
+    },
+    {
+        "key": "C27200",
+        "text": "Herstellung von Batterien und Akkumulatoren"
+    },
+    {
+        "key": "C27310",
+        "text": "Herstellung von Glasfaserkabeln"
+    },
+    {
+        "key": "C27320",
+        "text": "Herstellung von sonstigen elektronischen und elektrischen Drähten und Kabeln"
+    },
+    {
+        "key": "C27330",
+        "text": "Herstellung von elektrischem Installationsmaterial"
+    },
+    {
+        "key": "C27400",
+        "text": "Herstellung von elektrischen Lampen und Leuchten"
+    },
+    {
+        "key": "E38110",
+        "text": "Sammlung nicht gefährlicher Abfälle"
+    },
+    {
+        "key": "E38120",
+        "text": "Sammlung gefährlicher Abfälle"
+    },
+    {
+        "key": "E3821",
+        "text": "Behandlung und Beseitigung nicht gefährlicher Abfälle"
+    },
+    {
+        "key": "E38211",
+        "text": "Deponierung nicht gefährlicher Abfälle"
+    },
+    {
+        "key": "E3821114",
+        "text": "Deponierung nicht gefährlicher Abfälle Bund"
+    },
+    {
+        "key": "E3821115",
+        "text": "Deponierung nicht gefähhrliche Abfälle Land"
+    },
+    {
+        "key": "E3821116",
+        "text": "Deponierung nicht gefährlicher Abfälle Gemeinde"
+    },
+    {
+        "key": "E3821118",
+        "text": "Deponierung nicht gefährlicher Abfälle Privat"
+    },
+    {
+        "key": "E38219",
+        "text": "Sonstige Behandlung und Beseitigung nicht gefährlicher Abfälle"
+    },
+    {
+        "key": "E38220",
+        "text": "Behandlung und Beseitigung gefährlicher Abfälle"
+    },
+    {
+        "key": "E38310",
+        "text": "Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren"
+    },
+    {
+        "key": "E3832",
+        "text": "Rückgewinnung sortierter Werkstoffe"
+    },
+    {
+        "key": "E381",
+        "text": "Sammlung von Abfällen"
+    },
+    {
+        "key": "E38321",
+        "text": "Rückgewinnung von Eisen und NE-Metallen"
+    },
+    {
+        "key": "E38329",
+        "text": "Rückgewinnung sonstiger sortierter Werkstoffe"
+    },
+    {
+        "key": "E39000",
+        "text": "Beseitigung von Umweltverschmutzungen und sonstige Entsorgung"
+    },
+    {
+        "key": "F41100",
+        "text": "Erschließung von Grundstücken; Bauträger"
+    },
+    {
+        "key": "F4110001",
+        "text": "Erschließung von Grundstücken; Bauträger Gemeinnützige Wohnbaugesellschaften"
+    },
+    {
+        "key": "F41201",
+        "text": "Wohnungs- und Siedlungsbau"
+    },
+    {
+        "key": "F41202",
+        "text": "Adaptierungsarbeiten im Hochbau"
+    },
+    {
+        "key": "F41209",
+        "text": "Sonstiger Hochbau"
+    },
+    {
+        "key": "F42110",
+        "text": "Bau von Straßen"
+    },
+    {
+        "key": "F42120",
+        "text": "Bau von Bahnverkehrsstrecken"
+    },
+    {
+        "key": "F4213",
+        "text": "Brücken- und Tunnelbau"
+    },
+    {
+        "key": "F43912",
+        "text": "Zimmerei"
+    },
+    {
+        "key": "F43913",
+        "text": "Bauspenglerei"
+    },
+    {
+        "key": "F4399",
+        "text": "Sonstige spezialisierte Bautätigkeiten a.n.g."
+    },
+    {
+        "key": "F43991",
+        "text": "Isolierer"
+    },
+    {
+        "key": "F43999",
+        "text": "Sonstige spezialisierte Bautätigkeiten a.n.g. (ohne Isolierer)"
+    },
+    {
+        "key": "G4511",
+        "text": "Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "key": "G45111",
+        "text": "Großhandel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "key": "G45112",
+        "text": "Einzelhandel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger"
+    },
+    {
+        "key": "G45190",
+        "text": "Handel mit Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t"
+    },
+    {
+        "key": "G45200",
+        "text": "Instandhaltung und Reparatur von Kraftwagen"
+    },
+    {
+        "key": "G45310",
+        "text": "Großhandel mit Kraftwagenteilen und -zubehör"
+    },
+    {
+        "key": "F42131",
+        "text": "Brücken- und Hochstraßenbau"
+    },
+    {
+        "key": "F42132",
+        "text": "Tunnelbau"
+    },
+    {
+        "key": "F422",
+        "text": "Leitungstiefbau und Kläranlagenbau"
+    },
+    {
+        "key": "F42210",
+        "text": "Rohrleitungstiefbau, Brunnenbau und Kläranlagenbau"
+    },
+    {
+        "key": "F42220",
+        "text": "Kabelnetzleitungstiefbau"
+    },
+    {
+        "key": "F42910",
+        "text": "Wasserbau"
+    },
+    {
+        "key": "F42990",
+        "text": "Sonstiger Tiefbau a.n.g."
+    },
+    {
+        "key": "Q8730021",
+        "text": "Altenheime; Alten- und Behindertenwohnheime von kirchlichen Stellen"
+    },
+    {
+        "key": "Q87900",
+        "text": "Sonstige Heime (ohne Erholungs- und Ferienheime)"
+    },
+    {
+        "key": "Q88100",
+        "text": "Soziale Betreuung älterer Menschen und Behinderter"
+    },
+    {
+        "key": "Q88910",
+        "text": "Tagesbetreuung von Kindern"
+    },
+    {
+        "key": "Q88990",
+        "text": "Sonstiges Sozialwesen a.n.g."
+    },
+    {
+        "key": "R900",
+        "text": "Kreative, künstlerische und unterhaltende Tätigkeiten"
+    },
+    {
+        "key": "R90010",
+        "text": "Darstellende Kunst"
+    },
+    {
+        "key": "R90020",
+        "text": "Erbringung von Dienstleistungen für die darstellende Kunst"
+    },
+    {
+        "key": "R90030",
+        "text": "Künstlerisches und schriftstellerisches Schaffen"
+    },
+    {
+        "key": "R90040",
+        "text": "Betrieb von Kultur- und Unterhaltungseinrichtungen"
+    },
+    {
+        "key": "H4931",
+        "text": "Personenbeförderung im Nahverkehr zu Lande  (ohne Taxi)"
+    },
+    {
+        "key": "H49311",
+        "text": "Straßenbahn-, O-Bus, U-Bahn- und Schnellbahnlinienverkehr"
+    },
+    {
+        "key": "H49312",
+        "text": "Autobusliniennahverkehr"
+    },
+    {
+        "key": "H49320",
+        "text": "Betrieb von Taxis"
+    },
+    {
+        "key": "H4939",
+        "text": "Sonstige Personenbeförderung im Landverkehr a.n.g."
+    },
+    {
+        "key": "H49391",
+        "text": "Seilbahn-, Sessel- und Schleppliftverkehr"
+    },
+    {
+        "key": "H49399",
+        "text": "Sonstige Personenbeförderung im Landverkehr a.n.g. (ohne Seilbahnwirtschaft)"
+    },
+    {
+        "key": "H49410",
+        "text": "Güterbeförderung im Straßenverkehr"
+    },
+    {
+        "key": "H49420",
+        "text": "Umzugstransporte"
+    },
+    {
+        "key": "C10860",
+        "text": "Herstellung von homogenisierten und diätetischen Nahrungsmitteln"
+    },
+    {
+        "key": "C10890",
+        "text": "Herstellung von sonstigen Nahrungsmitteln a.n.g."
+    },
+    {
+        "key": "C10910",
+        "text": "Herstellung von Futtermitteln für Nutztiere"
+    },
+    {
+        "key": "C10920",
+        "text": "Herstellung von Futtermitteln für sonstige Tiere"
+    },
+    {
+        "key": "C11010",
+        "text": "Herstellung von Spirituosen"
+    },
+    {
+        "key": "C11020",
+        "text": "Herstellung von Traubenwein"
+    },
+    {
+        "key": "G45320",
+        "text": "Einzelhandel mit Kraftwagenteilen und -zubehör"
+    },
+    {
+        "key": "G45400",
+        "text": "Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern"
+    },
+    {
+        "key": "G46110",
+        "text": "Handelsvermittlung landwirtschaftlicher Grundstoffe, lebender Tiere, textiler Rohstoffe, Halbwaren"
+    },
+    {
+        "key": "G46120",
+        "text": "Handelsvermittlung von Brennstoffen, Erzen, Metallen und technischen Chemikalien"
+    },
+    {
+        "key": "G46130",
+        "text": "Handelsvermittlung von Holz, Baustoffen und Anstrichmitteln"
+    },
+    {
+        "key": "G46140",
+        "text": "Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftfahrzeugen"
+    },
+    {
+        "key": "G46150",
+        "text": "Handelsvermittlung von Möbeln, Einrichtungs- und Haushaltsgegenständen, Eisen- und Metallwaren"
+    },
+    {
+        "key": "A01500",
+        "text": "Gemischte Landwirtschaft"
+    },
+    {
+        "key": "A01640",
+        "text": "Saatgutaufbereitung"
+    },
+    {
+        "key": "C28960",
+        "text": "Herstellung von Maschinen für die  Verarbeitung von Kunststoffen und Kautschuk"
+    },
+    {
+        "key": "C2899",
+        "text": "Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige   a.n.g."
+    },
+    {
+        "key": "C28991",
+        "text": "Herstellung von Druckerei- und Buchbindereimaschinen"
+    },
+    {
+        "key": "C22110",
+        "text": "Herstellung und Runderneuerung von Bereifungen"
+    },
+    {
+        "key": "C22190",
+        "text": "Herstellung von sonstigen Gummiwaren"
+    },
+    {
+        "key": "C22210",
+        "text": "Herstellung von Platten, Folien, Schläuchen und Profilen aus Kunststoffen"
+    },
+    {
+        "key": "C22220",
+        "text": "Herstellung von Verpackungsmitteln aus Kunststoffen"
+    },
+    {
+        "key": "C2223",
+        "text": "Herstellung von Baubedarfsartikeln aus Kunststoffen"
+    },
+    {
+        "key": "C22231",
+        "text": "Herstellung von Türen, Fenstern, Rahmen, Rollläden und Jalousien aus Kunststoffen"
+    },
+    {
+        "key": "C22239",
+        "text": "Herstellung von sonstigen Baubedarfsartikeln aus Kunststoffen"
+    },
+    {
+        "key": "C2229",
+        "text": "Herstellung von sonstigen Kunststoffwaren"
+    },
+    {
+        "key": "C22291",
+        "text": "Herstellung von technischen Kunststoffteilen"
+    },
+    {
+        "key": "C22299",
+        "text": "Herstellung von sonstigen Kunststoffwaren a.n.g."
+    },
+    {
+        "key": "C23120",
+        "text": "Veredlung und Bearbeitung von Flachglas"
+    },
+    {
+        "key": "C23130",
+        "text": "Herstellung von Hohlglas"
+    },
+    {
+        "key": "C23140",
+        "text": "Herstellung von Glasfasern und Waren daraus"
+    },
+    {
+        "key": "C23190",
+        "text": "Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren"
+    },
+    {
+        "key": "C23310",
+        "text": "Herstellung von keramischen Wand- und Bodenfliesen und -platten"
+    },
+    {
+        "key": "C23320",
+        "text": "Herstellung von Ziegeln und sonstiger Baukeramik"
+    },
+    {
+        "key": "C23410",
+        "text": "Herstellung von keramischen Haushaltswaren und Ziergegenständen"
+    },
+    {
+        "key": "J63990",
+        "text": "Erbringung von sonstigen Informationsdienstleistungen a.n.g."
+    },
+    {
+        "key": "K6411020",
+        "text": "Zentralbanken"
+    },
+    {
+        "key": "K6419011",
+        "text": "Aktienbanken und Bankiers MFI"
+    },
+    {
+        "key": "K6419013",
+        "text": "Landes-Hypothekenbanken MFI"
+    },
+    {
+        "key": "K6419012",
+        "text": "Sparkassensektor MFI"
+    },
+    {
+        "key": "K6419014",
+        "text": "Raiffeisensektor MFI"
+    },
+    {
+        "key": "K6419015",
+        "text": "Volksbankensektor MFI"
+    },
+    {
+        "key": "K6419017",
+        "text": "Sonder-Kreditinstitute MFI"
+    },
+    {
+        "key": "K6419016",
+        "text": "Bausparkassen MFI"
+    },
+    {
+        "key": "K6419021",
+        "text": "Zweigstellen im Sinne von § 9 BWG MFI"
+    },
+    {
+        "key": "K6419031",
+        "text": "Aktienbanken und Bankiers N-MFI"
+    },
+    {
+        "key": "K6419034",
+        "text": "Sparkassensektor N-MFI"
+    },
+    {
+        "key": "K6419036",
+        "text": "Raiffeisensektor N-MFI"
+    },
+    {
+        "key": "K6419037",
+        "text": "Volksbankensektor N-MFI"
+    },
+    {
+        "key": "K6419038",
+        "text": "Sonder-Kreditinstitute N-MFI"
+    },
+    {
+        "key": "K6419041",
+        "text": "Zweigstellen im Sinne von § 9 BWG N-MFI"
+    },
+    {
+        "key": "K64200",
+        "text": "Beteiligungsgesellschaften"
+    },
+    {
+        "key": "K6420011",
+        "text": "Finanzbeteiligungsgesellschaften"
+    },
+    {
+        "key": "K64301",
+        "text": "Investment- und Immobilienfonds"
+    },
+    {
+        "key": "K64309",
+        "text": "Treuhand- und sonstige Fonds a.n.g. und ähnliche Finanzinstitutionen"
+    },
+    {
+        "key": "K6430911",
+        "text": "Privatstiftungen"
+    },
+    {
+        "key": "K6430921",
+        "text": "Non-Profit-Privatstiftungen"
+    },
+    {
+        "key": "K649",
+        "text": "Sonstige Finanzierungsinstitutionen"
+    },
+    {
+        "key": "K64910",
+        "text": "Institutionen für Finanzierungsleasing"
+    },
+    {
+        "key": "K64990",
+        "text": "Erbringung von sonstigen Finanzdienstleistungen a.n.g."
+    },
+    {
+        "key": "K6499011",
+        "text": "Holdings lt. OeNB (Meldewesen)"
+    },
+    {
+        "key": "K6492099",
+        "text": "Entwicklungsbanken"
+    },
+    {
+        "key": "K65110",
+        "text": "Lebensversicherungen"
+    },
+    {
+        "key": "K65120",
+        "text": "Nichtlebensversicherungen"
+    },
+    {
+        "key": "K65200",
+        "text": "Rückversicherungen"
+    },
+    {
+        "key": "C23630",
+        "text": "Herstellung von Frischbeton (Transportbeton)"
+    },
+    {
+        "key": "C23650",
+        "text": "Herstellung von Faserzementwaren"
+    },
+    {
+        "key": "P8532218",
+        "text": "Berufsbildende mittlere Schulen privat"
+    },
+    {
+        "key": "P8532221",
+        "text": "Berufsbildende mittlere Schulen von kirchlichen Stellen"
+    },
+    {
+        "key": "P8532314",
+        "text": "Berufsbildende höhere Schulen Bund"
+    },
+    {
+        "key": "P8532315",
+        "text": "Berufsbildende höhere Schulen Land"
+    },
+    {
+        "key": "P8532316",
+        "text": "Berufsbildende höhere Schulen Gemeinde"
+    },
+    {
+        "key": "P8532318",
+        "text": "Berufsbildende höhere Schulen privat"
+    },
+    {
+        "key": "P8532321",
+        "text": "Berufsbildende höhere Schulen von kirchlichen Stellen"
+    },
+    {
+        "key": "P8542014",
+        "text": "Tertiärer Unterricht Bund"
+    },
+    {
+        "key": "P8542015",
+        "text": "Tertiärer Unterricht Land"
+    },
+    {
+        "key": "P8542016",
+        "text": "Tertiärer Unterricht Gemeinde"
+    },
+    {
+        "key": "P8542018",
+        "text": "Tertiärer Unterricht privat"
+    },
+    {
+        "key": "P8542021",
+        "text": "Tertiärer Unterricht von krichlichen Stellen"
+    },
+    {
+        "key": "P85510",
+        "text": "Sport- und Freizeitunterricht"
+    },
+    {
+        "key": "P8552",
+        "text": "Kulturunterricht"
+    },
+    {
+        "key": "P85521",
+        "text": "Tanzschulen"
+    },
+    {
+        "key": "G46712",
+        "text": "Großhandel mit Mineralölerzeugnissen"
+    },
+    {
+        "key": "G4672",
+        "text": "Großhandel mit Erzen, Metallen und Metallhalbzeug"
+    },
+    {
+        "key": "G46721",
+        "text": "Großhandel mit Erzen, Eisen, Stahl und Halbzeug"
+    },
+    {
+        "key": "G4673",
+        "text": "Großhandel mit Holz, Baustoffen, Anstrichmitteln und Sanitärkeramik"
+    },
+    {
+        "key": "G46731",
+        "text": "Großhandel mit Holz"
+    },
+    {
+        "key": "G46450",
+        "text": "Großhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln"
+    },
+    {
+        "key": "G4646",
+        "text": "Großhandel mit pharmazeutischen, medizinischen und orthopädischen Erzeugnissen"
+    },
+    {
+        "key": "K6411010",
+        "text": "EZB"
+    },
+    {
+        "key": "C23690",
+        "text": "Herstellung von Erzeugnissen aus Beton, Zement und Gips a.n.g."
+    },
+    {
+        "key": "C23700",
+        "text": "Be- und Verarbeitung von Naturwerksteinen und Natursteinen a.n.g."
+    },
+    {
+        "key": "C23910",
+        "text": "Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage"
+    },
+    {
+        "key": "C23990",
+        "text": "Herstellung von sonstigen Erzeugnissen aus nicht metallischen Mineralien a.n.g."
+    },
+    {
+        "key": "C24100",
+        "text": "Erzeugung von Roheisen, Stahl und Ferrolegierungen"
+    },
+    {
+        "key": "C24200",
+        "text": "Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl"
+    },
+    {
+        "key": "C24310",
+        "text": "Herstellung von Blankstahl"
+    },
+    {
+        "key": "C24320",
+        "text": "Herstellung von Kaltband mit einer Breite von weniger als 600 mm"
+    },
+    {
+        "key": "C24330",
+        "text": "Herstellung von Kaltprofilen"
+    },
+    {
+        "key": "C24340",
+        "text": "Herstellung von kaltgezogenem Draht"
+    },
+    {
+        "key": "C24410",
+        "text": "Erzeugung und erste Bearbeitung von Edelmetallen"
+    },
+    {
+        "key": "C24420",
+        "text": "Erzeugung und erste Bearbeitung von Aluminium"
+    },
+    {
+        "key": "C24430",
+        "text": "Erzeugung und erste Bearbeitung von Blei, Zink und Zinn"
+    },
+    {
+        "key": "C24440",
+        "text": "Erzeugung und erste Bearbeitung von Kupfer"
+    },
+    {
+        "key": "C24450",
+        "text": "Erzeugung und erste Bearbeitung von sonstigen NE-Metallen"
+    },
+    {
+        "key": "C24460",
+        "text": "Aufbereitung von Kernbrennstoffen"
+    },
+    {
+        "key": "G46461",
+        "text": "Großhandel mit pharmazeutischen Erzeugnissen"
+    },
+    {
+        "key": "G46462",
+        "text": "Großhandel mit medizinischen und orthopädischen Artikeln, Laborbedarf"
+    },
+    {
+        "key": "G46470",
+        "text": "Großhandel mit Möbeln, Teppichen, Lampen und Leuchten"
+    },
+    {
+        "key": "C30120",
+        "text": "Boots- und Yachtbau"
+    },
+    {
+        "key": "C30200",
+        "text": "Schienenfahrzeugbau"
+    },
+    {
+        "key": "C30300",
+        "text": "Luft- und Raumfahrzeugbau"
+    },
+    {
+        "key": "C30400",
+        "text": "Herstellung von militärischen Kampffahrzeugen"
+    },
+    {
+        "key": "P85529",
+        "text": "Sonstiger Kulturunterricht"
+    },
+    {
+        "key": "P85530",
+        "text": "Fahr- und Flugschulen"
+    },
+    {
+        "key": "A02400",
+        "text": "Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag"
+    },
+    {
+        "key": "B06100",
+        "text": "Gewinnung von Erdöl"
+    },
+    {
+        "key": "B07290",
+        "text": "Sonstiger NE-Metallerzbergbau"
+    },
+    {
+        "key": "B08930",
+        "text": "Gewinnung von Salz"
+    },
+    {
+        "key": "A01300",
+        "text": "Betrieb von Baumschulen sowie Anbau von Pflanzen zu Vermehrungszwecken"
+    },
+    {
+        "key": "A014",
+        "text": "Tierhaltung"
+    },
+    {
+        "key": "A01410",
+        "text": "Haltung von Milchkühen"
+    },
+    {
+        "key": "A01420",
+        "text": "Haltung von anderen Rindern"
+    },
+    {
+        "key": "A01430",
+        "text": "Haltung von Pferden und Eseln"
+    },
+    {
+        "key": "A01440",
+        "text": "Haltung von Kamelen"
+    },
+    {
+        "key": "A01450",
+        "text": "Haltung von Schafen und Ziegen"
+    },
+    {
+        "key": "A01460",
+        "text": "Haltung von Schweinen"
+    },
+    {
+        "key": "A01470",
+        "text": "Haltung von Geflügel"
+    },
+    {
+        "key": "A01471",
+        "text": "Mästereien"
+    },
+    {
+        "key": "A01472",
+        "text": "Brütereien und Legeanstalten"
+    },
+    {
+        "key": "A01490",
+        "text": "Sonstige Tierhaltung"
+    },
+    {
+        "key": "A016",
+        "text": "Erbringung von landwirtschaftlichen Dienstleistungen"
+    },
+    {
+        "key": "C24510",
+        "text": "Eisengießereien"
+    },
+    {
+        "key": "C24520",
+        "text": "Stahlgießereien"
+    },
+    {
+        "key": "C24530",
+        "text": "Leichtmetallgießereien"
+    },
+    {
+        "key": "C24540",
+        "text": "Buntmetallgießereien"
+    },
+    {
+        "key": "C251",
+        "text": "Stahl- und Leichtmetallbau"
+    },
+    {
+        "key": "C25110",
+        "text": "Herstellung von Metallkonstruktionen"
+    },
+    {
+        "key": "C25121",
+        "text": "Herstellung von Ausbauelementen aus Stahl"
+    },
+    {
+        "key": "C25122",
+        "text": "Herstellung von Ausbauelementen aus Leichtmetall"
+    },
+    {
+        "key": "C25210",
+        "text": "Herstellung von Heizkörpern und –kesseln für Zentralheizungen"
+    },
+    {
+        "key": "C25290",
+        "text": "Herstellung von Sammelbehältern, Tanks u.ä. Behältern aus Metall"
+    },
+    {
+        "key": "C25300",
+        "text": "Herstellung von Dampfkesseln (ohne Zentralheizungskessel)"
+    },
+    {
+        "key": "C25400",
+        "text": "Herstellung von Waffen und Munition"
+    },
+    {
+        "key": "C25500",
+        "text": "Herstellung Schmiede-, Press-, Zieh- und Stanzteile, gewalzte Ringe, pulvermetallurgische Erzeugn."
+    },
+    {
+        "key": "C25610",
+        "text": "Oberflächenveredlung und Wärmebehandlung"
+    },
+    {
+        "key": "C25620",
+        "text": "Mechanik a.n.g."
+    },
+    {
+        "key": "C25710",
+        "text": "Herstellung von Schneidwaren und Bestecken aus unedlen Metallen"
+    },
+    {
+        "key": "C2572",
+        "text": "Herstellung von Schlössern und Beschlägen aus unedlen Metallen"
+    },
+    {
+        "key": "C25721",
+        "text": "Herstellung von Schlössern aus unedlen Metallen"
+    },
+    {
+        "key": "C25722",
+        "text": "Herstellung von Beschlägen aus unedlen Metallen"
+    },
+    {
+        "key": "C2573",
+        "text": "Herstellung von Werkzeugen"
+    },
+    {
+        "key": "C25731",
+        "text": "Herstellung von Formen und Formkästen"
+    },
+    {
+        "key": "C25739",
+        "text": "Herstellung von sonstigen Werkzeugen"
+    },
+    {
+        "key": "F43110",
+        "text": "Abbrucharbeiten"
+    },
+    {
+        "key": "F43120",
+        "text": "Vorbereitende Baustellenarbeiten"
+    },
+    {
+        "key": "F43130",
+        "text": "Test- und Suchbohrung"
+    },
+    {
+        "key": "F43210",
+        "text": "Elektroinstallation"
+    },
+    {
+        "key": "F43220",
+        "text": "Gas-, Wasser-, Heizungs- und Lüftungs- und Klimaanlageninstallation"
+    },
+    {
+        "key": "F43290",
+        "text": "Sonstige Bauinstallation"
+    },
+    {
+        "key": "F43310",
+        "text": "Anbringen von Stuckaturen, Gipserei und Verputzerei"
+    },
+    {
+        "key": "F4332",
+        "text": "Bautischlerei und -schlosserei"
+    },
+    {
+        "key": "F43321",
+        "text": "Bautischlerei"
+    },
+    {
+        "key": "F43322",
+        "text": "Bauschlosserei"
+    },
+    {
+        "key": "F43329",
+        "text": "Sonstige Bauinstallation"
+    },
+    {
+        "key": "F4333",
+        "text": "Fußboden-, Fliesen- und Plattenlegerei, Tapeziererei"
+    },
+    {
+        "key": "F43331",
+        "text": "Fußbodenlegerei"
+    },
+    {
+        "key": "F43332",
+        "text": "Fliesenlegerei"
+    },
+    {
+        "key": "F43333",
+        "text": "Tapeziererei"
+    },
+    {
+        "key": "A01610",
+        "text": "Erbringung von landwirtschaftlichen Dienstleistungen für den Pflanzenbau"
+    },
+    {
+        "key": "A01620",
+        "text": "Erbringung von landwirtschaftlichen Dienstleistungen für die Tierhaltung"
+    },
+    {
+        "key": "A01630",
+        "text": "Nach der Ernte anfallende Tätigkeiten in der pflanzlichen Erzeugung"
+    },
+    {
+        "key": "A01700",
+        "text": "Jagd, Fallenstellerei und damit verbundene Tätigkeiten"
+    },
+    {
+        "key": "A02100",
+        "text": "Forstwirtschaft"
+    },
+    {
+        "key": "A02200",
+        "text": "Holzeinschlag"
+    },
+    {
+        "key": "A02300",
+        "text": "Sammeln von wild wachsenden Produkten (ohne Holz)"
+    },
+    {
+        "key": "A03110",
+        "text": "Meeresfischerei"
+    },
+    {
+        "key": "A03120",
+        "text": "Süßwasserfischerei"
+    },
+    {
+        "key": "A03210",
+        "text": "Meeresaquakultur"
+    },
+    {
+        "key": "A03220",
+        "text": "Süßwasseraquakultur"
+    },
+    {
+        "key": "B05100",
+        "text": "Steinkohlenbergbau"
+    },
+    {
+        "key": "B05200",
+        "text": "Braunkohlenbergbau"
+    },
+    {
+        "key": "B06200",
+        "text": "Gewinnung von Erdgas"
+    },
+    {
+        "key": "B07100",
+        "text": "Eisenerzbergbau"
+    },
+    {
+        "key": "B07210",
+        "text": "Bergbau auf Uran- und Thoriumerze"
+    },
+    {
+        "key": "B08110",
+        "text": "Gewinnung von Naturwerksteinen und Natursteinen, Kalk- und Gipsstein, Kreide und Schiefer"
+    },
+    {
+        "key": "B08120",
+        "text": "Gewinnung von Kies, Sand, Ton und Kaolin"
+    },
+    {
+        "key": "B08910",
+        "text": "Bergbau auf chemische und Düngemittelminerale"
+    },
+    {
+        "key": "B08920",
+        "text": "Torfgewinnung"
+    },
+    {
+        "key": "B08990",
+        "text": "Gewinnung von Steinen und Erden a.n.g."
+    },
+    {
+        "key": "B09100",
+        "text": "Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas"
+    },
+    {
+        "key": "B09900",
+        "text": "Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden"
+    },
+    {
+        "key": "C275",
+        "text": "Herstellung von Haushaltsgeräten"
+    },
+    {
+        "key": "C27510",
+        "text": "Herstellung von elektrischen Haushaltsgeräten"
+    },
+    {
+        "key": "C27520",
+        "text": "Herstellung von nicht elektrischen Haushaltsgeräten"
+    },
+    {
+        "key": "C27900",
+        "text": "Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a.n.g."
+    },
+    {
+        "key": "C28110",
+        "text": "Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)"
+    },
+    {
+        "key": "C28120",
+        "text": "Herstellung von hydraulischen und pneumatischen Komponenten und Systemen"
+    },
+    {
+        "key": "C28130",
+        "text": "Herstellung von Pumpen und Kompressoren a.n.g."
+    },
+    {
+        "key": "C28140",
+        "text": "Herstellung von Armaturen a.n.g."
+    },
+    {
+        "key": "C28150",
+        "text": "Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen"
+    },
+    {
+        "key": "C28210",
+        "text": "Herstellung von Öfen und Brennern"
+    },
+    {
+        "key": "C28220",
+        "text": "Herstellung von Hebezeugen und Fördermitteln"
+    },
+    {
+        "key": "C28230",
+        "text": "Herstellung von Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte)"
+    },
+    {
+        "key": "C28240",
+        "text": "Herstellung von handgeführten Werkzeugen mit Motorantrieb"
+    },
+    {
+        "key": "C28250",
+        "text": "Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt"
+    },
+    {
+        "key": "C28290",
+        "text": "Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a.n.g."
+    },
+    {
+        "key": "C28300",
+        "text": "Herstellung von land- und forstwirtschaftlichen Maschinen"
+    },
+    {
+        "key": "C28410",
+        "text": "Herstellung von Werkzeugmaschinen für die Metallbearbeitung"
+    },
+    {
+        "key": "P85590",
+        "text": "Sonstiger Unterricht a.n.g."
+    },
+    {
+        "key": "C31020",
+        "text": "Herstellung von Küchenmöbeln"
+    },
+    {
+        "key": "C31030",
+        "text": "Herstellung von Matratzen"
+    },
+    {
+        "key": "C11030",
+        "text": "Herstellung von Apfelwein und anderen Fruchtweinen"
+    },
+    {
+        "key": "C11040",
+        "text": "Herstellung von Wermutwein und sonstigen aromatisierten Weinen"
+    },
+    {
+        "key": "C11050",
+        "text": "Herstellung von Bier"
+    },
+    {
+        "key": "C11060",
+        "text": "Herstellung von Malz"
+    },
+    {
+        "key": "C11070",
+        "text": "Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralwässer"
+    },
+    {
+        "key": "C12000",
+        "text": "Tabakverarbeitung"
+    },
+    {
+        "key": "C13100",
+        "text": "Spinnstoffaufbereitung und Spinnerei"
+    },
+    {
+        "key": "C13200",
+        "text": "Weberei"
+    },
+    {
+        "key": "C13300",
+        "text": "Veredlung von Textilien und Bekleidung"
+    },
+    {
+        "key": "C13910",
+        "text": "Herstellung von gewirktem und gestricktem Stoff"
+    },
+    {
+        "key": "C13920",
+        "text": "Herstellung von konfektionierten Textilwaren (ohne Bekleidung)"
+    },
+    {
+        "key": "C13930",
+        "text": "Herstellung von Teppichen"
+    },
+    {
+        "key": "C13950",
+        "text": "Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung)"
+    },
+    {
+        "key": "C13960",
+        "text": "Herstellung von technischen Textilien"
+    },
+    {
+        "key": "C1399",
+        "text": "Herstellung von sonstigen Textilwaren a.n.g."
+    },
+    {
+        "key": "C13999",
+        "text": "Herstellung von sonstigen Textilwaren a.n.g. (ohne Herstellung von Stickereien)"
+    },
+    {
+        "key": "C14110",
+        "text": "Herstellung von Lederbekleidung"
+    },
+    {
+        "key": "C14130",
+        "text": "Herstellung von sonstiger Oberbekleidung"
+    },
+    {
+        "key": "C14190",
+        "text": "Herstellung von sonstiger Bekleidung und Bekleidungszubehör a.n.g."
+    },
+    {
+        "key": "C14200",
+        "text": "Herstellung von Pelzwaren"
+    },
+    {
+        "key": "C14310",
+        "text": "Herstellung von Strumpfwaren"
+    },
+    {
+        "key": "C14390",
+        "text": "Herstellung von sonstiger Bekleidung aus gewirktem und gestricktem Stoff"
+    },
+    {
+        "key": "A01210",
+        "text": "Anbau von Wein- und Tafeltrauben"
+    },
+    {
+        "key": "A01220",
+        "text": "Anbau von tropischen und subtropischen Früchten"
+    },
+    {
+        "key": "A01230",
+        "text": "Anbau von Zitrusfrüchten"
+    },
+    {
+        "key": "A01240",
+        "text": "Anbau von Kern- und Steinobst"
+    },
+    {
+        "key": "A01250",
+        "text": "Anbau von sonstigem Obst und Nüssen"
+    },
+    {
+        "key": "A01260",
+        "text": "Anbau von ölhaltigen Früchten"
+    },
+    {
+        "key": "A01270",
+        "text": "Anbau von Pflanzen zur Herstellung von Getränken"
+    },
+    {
+        "key": "A01280",
+        "text": "Anbau von Gewürzpflanzen, Pflanzen für aromatische, narkotische und pharmazeutische Zwecke"
+    },
+    {
+        "key": "A01290",
+        "text": "Anbau sonstiger mehrjähriger Pflanzen"
+    },
+    {
+        "key": "C10110",
+        "text": "Schlachten (ohne Schlachten von Geflügel)"
+    },
+    {
+        "key": "C10120",
+        "text": "Schlachten von Geflügel"
+    },
+    {
+        "key": "C10130",
+        "text": "Fleischverarbeitung"
+    },
+    {
+        "key": "C10200",
+        "text": "Fischverarbeitung"
+    },
+    {
+        "key": "C10310",
+        "text": "Kartoffelverarbeitung"
+    },
+    {
+        "key": "C10320",
+        "text": "Herstellung von Frucht- und Gemüsesäften"
+    },
+    {
+        "key": "C10390",
+        "text": "Sonstige Verarbeitung von Obst und Gemüse"
+    },
+    {
+        "key": "C10410",
+        "text": "Herstellung von Ölen und Fetten (ohne Margarine u.ä. Nahrungsfette)"
+    },
+    {
+        "key": "C10420",
+        "text": "Herstellung von Margarine u.ä. Nahrungsfetten"
+    },
+    {
+        "key": "C10510",
+        "text": "Milchverarbeitung (ohne Herstellung von Speiseeis)"
+    },
+    {
+        "key": "C10520",
+        "text": "Herstellung von Speiseeis"
+    },
+    {
+        "key": "C10610",
+        "text": "Mahl- und Schälmühlen"
+    },
+    {
+        "key": "C10620",
+        "text": "Herstellung von Stärke und Stärkeerzeugnissen"
+    },
+    {
+        "key": "C1071",
+        "text": "Herstellung von Backwaren (ohne Dauerbackwaren)"
+    },
+    {
+        "key": "C10711",
+        "text": "Herstellung von Schwarz- und Weißbackwaren"
+    },
+    {
+        "key": "C10712",
+        "text": "Herstellung von Zuckerbäcker- und Konditorwaren"
+    },
+    {
+        "key": "C10720",
+        "text": "Herstellung von Dauerbackwaren"
+    },
+    {
+        "key": "C10730",
+        "text": "Herstellung von Teigwaren"
+    },
+    {
+        "key": "C10810",
+        "text": "Herstellung von Zucker"
+    },
+    {
+        "key": "C10820",
+        "text": "Herstellung von Süßwaren (ohne Dauerbackwaren)"
+    },
+    {
+        "key": "C10830",
+        "text": "Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz"
+    },
+    {
+        "key": "C10840",
+        "text": "Herstellung von Würzmitteln und Soßen"
+    },
+    {
+        "key": "C10850",
+        "text": "Herstellung von Fertiggerichten"
+    },
+    {
+        "key": "G47740",
+        "text": "Einzelhandel mit medizinischen und orthopädischen Artikeln"
+    },
+    {
+        "key": "G47750",
+        "text": "Einzelhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln"
+    },
+    {
+        "key": "G4776",
+        "text": "Einzelhandel mit Blumen, Pflanzen, Sämereien, Düngemitteln, zoologischem Bedarf und lebenden Tieren"
+    },
+    {
+        "key": "G47761",
+        "text": "Einzelhandel mit Blumen, Pflanzen, Sämereien, Düngemitteln; Blumenbinderei"
+    },
+    {
+        "key": "G47762",
+        "text": "Einzelhandel mit zoologischem Bedarf und lebenden Tieren"
+    },
+    {
+        "key": "G47770",
+        "text": "Einzelhandel mit Uhren und Schmuck"
+    },
+    {
+        "key": "G4778",
+        "text": "Sonstiger Einzelhandel in Verkaufsräumen (ohne Antiquitäten und Gebrauchtwaren)"
+    },
+    {
+        "key": "G47781",
+        "text": "Einzelhandel mit Fotoartikeln, optischen und feinmechanischen Artikeln"
+    },
+    {
+        "key": "G47782",
+        "text": "Einzelhandel mit Brennstoffen"
+    },
+    {
+        "key": "G47789",
+        "text": "Sonstiger Einzelhandel a.n.g. in Verkaufsräumen (ohne Antiquitäten und Gebrauchtwaren)"
+    },
+    {
+        "key": "G47790",
+        "text": "Einzelhandel mit Antiquitäten und Gebrauchtwaren"
+    },
+    {
+        "key": "G47810",
+        "text": "Einzelhandel mit Nahrungs-, Genussmitteln, Getränken und Tabakwaren an Verkaufsständen und Märkten"
+    },
+    {
+        "key": "G47820",
+        "text": "Einzelhandel mit Textilien, Bekleidung und Schuhen an Verkaufsständen und auf Märkten"
+    },
+    {
+        "key": "G47890",
+        "text": "Einzelhandel mit sonstigen Gütern an Verkaufsständen und auf Märkten"
+    },
+    {
+        "key": "G47910",
+        "text": "Versand- und Internet-Einzelhandel"
+    },
+    {
+        "key": "G47990",
+        "text": "Sonstiger Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten"
+    },
+    {
+        "key": "H49100",
+        "text": "Personenbeförderung im Eisenbahnfernverkehr"
+    },
+    {
+        "key": "S96041",
+        "text": "Schlankheits- und Massagezentren"
+    },
+    {
+        "key": "S96042",
+        "text": "Heil-, Kur- und Thermalbäder"
+    },
+    {
+        "key": "S96049",
+        "text": "Solarien, Saunas, Bäder a.n.g"
+    },
+    {
+        "key": "S96090",
+        "text": "Erbringung von sonstigen Dienstleistungen a.n.g."
+    },
+    {
+        "key": "T97000",
+        "text": "Private Haushalte"
+    },
+    {
+        "key": "T9700010",
+        "text": "Diplomaten mit KEST-Befreiung"
+    },
+    {
+        "key": "T98100",
+        "text": "Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt"
+    },
+    {
+        "key": "T98200",
+        "text": "Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne Schwerpunkt"
+    },
+    {
+        "key": "U99000",
+        "text": "Exterritoriale Organisationen und Körperschaften"
+    },
+    {
+        "key": "C33170",
+        "text": "Reparatur und Instandhaltung von Fahrzeugen a.n.g."
+    },
+    {
+        "key": "C33190",
+        "text": "Reparatur von sonstigen Ausrüstungen"
+    },
+    {
+        "key": "C33200",
+        "text": "Installation von Maschinen und Ausrüstungen a.n.g."
+    },
+    {
+        "key": "D351",
+        "text": "Elektrizitätsversorgung"
+    },
+    {
+        "key": "D35110",
+        "text": "Elektrizitätserzeugung"
+    },
+    {
+        "key": "D35120",
+        "text": "Elektrizitätsübertragung"
+    },
+    {
+        "key": "D35130",
+        "text": "Elektrizitätsverteilung"
+    },
+    {
+        "key": "D35140",
+        "text": "Elektrizitätshandel"
+    },
+    {
+        "key": "D352",
+        "text": "Gasversorgung"
+    },
+    {
+        "key": "C13940",
+        "text": "Herstellung von Seilerwaren"
+    },
+    {
+        "key": "C13991",
+        "text": "Herstellung von Stickereien"
+    },
+    {
+        "key": "C14140",
+        "text": "Herstellung von Wäsche"
+    },
+    {
+        "key": "C15110",
+        "text": "Herstellung von Leder und Lederfaserstoff; Zurichtung und Färben von Fellen"
+    },
+    {
+        "key": "C16231",
+        "text": "Fertighaus- und Hallenerzeugung"
+    },
+    {
+        "key": "C23110",
+        "text": "Herstellung von Flachglas"
+    },
+    {
+        "key": "C23200",
+        "text": "Herstellung von feuerfesten keramischen Werkstoffen und Waren"
+    },
+    {
+        "key": "C23440",
+        "text": "Herstellung von keramischen Erzeugnissen für sonstige technische Zwecke"
+    },
+    {
+        "key": "C23640",
+        "text": "Herstellung von Mörtel und anderem Beton (Trockenbeton)"
+    },
+    {
+        "key": "C28930",
+        "text": "Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung"
+    },
+    {
+        "key": "C28940",
+        "text": "Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung"
+    },
+    {
+        "key": "C28950",
+        "text": "Herstellung von Maschinen für die Papiererzeugung und -verarbeitung"
+    },
+    {
+        "key": "C30910",
+        "text": "Herstellung von Krafträdern"
+    },
+    {
+        "key": "C30920",
+        "text": "Herstellung von Fahrrädern sowie von Behindertenfahrzeugen"
+    },
+    {
+        "key": "C30990",
+        "text": "Herstellung von sonstigen Fahrzeugen a.n.g."
+    },
+    {
+        "key": "C3101",
+        "text": "Herstellung von Büro- und Ladenmöbeln"
+    },
+    {
+        "key": "C25910",
+        "text": "Herstellung von Fässern, Trommeln, Dosen, Eimern u.ä. Behältern aus Metall"
+    },
+    {
+        "key": "C25920",
+        "text": "Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall"
+    },
+    {
+        "key": "C25930",
+        "text": "Herstellung von Drahtwaren, Ketten und Federn"
+    },
+    {
+        "key": "C25940",
+        "text": "Herstellung von Schrauben und Nieten"
+    },
+    {
+        "key": "C25990",
+        "text": "Herstellung von sonstigen Metallwaren a.n.g."
+    },
+    {
+        "key": "C26110",
+        "text": "Herstellung von elektronischen Bauelementen"
+    },
+    {
+        "key": "C26120",
+        "text": "Herstellung von bestückten Leiterplatten"
+    },
+    {
+        "key": "C26200",
+        "text": "Herstellung von Datenverarbeitungsgeräten und peripheren Geräten"
+    },
+    {
+        "key": "C26300",
+        "text": "Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik"
+    },
+    {
+        "key": "C26400",
+        "text": "Herstellung von Geräten der Unterhaltungselektronik"
+    },
+    {
+        "key": "C26510",
+        "text": "Herstellung von Mess-, Kontroll-, Navigations- u.ä. Instrumenten und -vorrichtungen"
+    },
+    {
+        "key": "C14120",
+        "text": "Herstellung von Arbeits- und Berufsbekleidung"
+    },
+    {
+        "key": "C2849",
+        "text": "Herstellung von sonstigen Werkzeugmaschinen"
+    },
+    {
+        "key": "C28491",
+        "text": "Herstellung von Werkzeugmaschinen für die Holzbearbeitung"
+    },
+    {
+        "key": "C28499",
+        "text": "Herstellung von sonstigen Werkzeugmaschinen a.n.g."
+    },
+    {
+        "key": "C28910",
+        "text": "Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen"
+    },
+    {
+        "key": "F43334",
+        "text": "Ofensetzerei"
+    },
+    {
+        "key": "F4334",
+        "text": "Malerei und Glaserei"
+    },
+    {
+        "key": "F43341",
+        "text": "Malerei und Anstreicherei"
+    },
+    {
+        "key": "F43342",
+        "text": "Glaserei"
+    },
+    {
+        "key": "F43390",
+        "text": "Sonstiger Ausbau a.n.g."
+    },
+    {
+        "key": "F4391",
+        "text": "Dachdeckerei und Zimmerei"
+    },
+    {
+        "key": "F43911",
+        "text": "Dachdeckerei"
+    },
+    {
+        "key": "C15120",
+        "text": "Lederverarbeitung (ohne Herstellung von Lederbekleidung)"
+    },
+    {
+        "key": "C15200",
+        "text": "Herstellung von Schuhen"
+    },
+    {
+        "key": "C16100",
+        "text": "Säge-, Hobel- und Holzimprägnierwerke"
+    },
+    {
+        "key": "C16210",
+        "text": "Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten"
+    },
+    {
+        "key": "C16220",
+        "text": "Herstellung von Parketttafeln"
+    },
+    {
+        "key": "C1623",
+        "text": "Herstellung sonstiger Konstruktionsteile, Fertigbauteile, Ausbauelemente, Fertigteilbauten aus Holz"
+    },
+    {
+        "key": "C16239",
+        "text": "Herstellung von sonstigen Konstruktionsteilen und Ausbauelementen aus Holz a.n.g."
+    },
+    {
+        "key": "C16240",
+        "text": "Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz"
+    },
+    {
+        "key": "C16290",
+        "text": "Herstellung von Holzwaren a.n.g., Kork-, Flecht- und Korbwaren (ohne Möbel)"
+    },
+    {
+        "key": "C31090",
+        "text": "Herstellung von sonstigen Möbeln"
+    },
+    {
+        "key": "C32110",
+        "text": "Herstellung von Münzen"
+    },
+    {
+        "key": "C32120",
+        "text": "Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck)"
+    },
+    {
+        "key": "C32130",
+        "text": "Herstellung von Fantasieschmuck"
+    },
+    {
+        "key": "C32200",
+        "text": "Herstellung von Musikinstrumenten"
+    },
+    {
+        "key": "C32300",
+        "text": "Herstellung von Sportgeräten"
+    },
+    {
+        "key": "C32400",
+        "text": "Herstellung von Spielwaren"
+    },
+    {
+        "key": "C3250",
+        "text": "Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien"
+    },
+    {
+        "key": "C32501",
+        "text": "Zahntechnische Laboratorien"
+    },
+    {
+        "key": "C32502",
+        "text": "Herstellung von Sehbehelfen und deren Teile"
+    },
+    {
+        "key": "C32509",
+        "text": "Herstellung von sonstigen medizinischen und zahnmedizinischen Apparaten und Materialien"
+    },
+    {
+        "key": "C32910",
+        "text": "Herstellung von Besen und Bürsten"
+    },
+    {
+        "key": "C32990",
+        "text": "Herstellung von sonstigen Erzeugnissen a.n.g."
+    },
+    {
+        "key": "C33110",
+        "text": "Reparatur von Metallerzeugnissen"
+    },
+    {
+        "key": "C33120",
+        "text": "Reparatur von Maschinen"
+    },
+    {
+        "key": "C33130",
+        "text": "Reparatur von elektronischen und optischen Geräten"
+    },
+    {
+        "key": "C33140",
+        "text": "Reparatur von elektrischen Ausrüstungen"
+    },
+    {
+        "key": "C33150",
+        "text": "Reparatur und Instandhaltung von Schiffen, Booten und Yachten"
+    },
+    {
+        "key": "C33160",
+        "text": "Reparatur und Instandhaltung von Luft- und Raumfahrzeugen"
+    },
+    {
+        "key": "C28999",
+        "text": "Herstellung von sonstigen Maschinen für sonstige bestimmte Wirtschaftszweige a.n.g."
+    },
+    {
+        "key": "C29100",
+        "text": "Herstellung von Kraftwagen und Kraftwagenmotoren"
+    },
+    {
+        "key": "C29200",
+        "text": "Herstellung von Karosserien, Aufbauten und Anhängern"
+    },
+    {
+        "key": "C293",
+        "text": "Herstellung von Teilen und Zubehör für Kraftwagen"
+    },
+    {
+        "key": "C29310",
+        "text": "Herstellung elektrischer und elektronischer Ausrüstungsgegenstände für Kraftwagen"
+    },
+    {
+        "key": "C29320",
+        "text": "Herstellung von sonstigen Teilen und sonstigem Zubehör für Kraftwagen"
+    },
+    {
+        "key": "C30110",
+        "text": "Schiffbau (ohne Boots- und Yachtbau)"
+    }
+]

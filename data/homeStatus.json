@@ -1,0 +1,22 @@
+[
+    {
+        "key": "rent",
+        "text": "Miete"
+    },
+    {
+        "key": "owner",
+        "text": "Eigentum"
+    },
+    {
+        "key": "companionship",
+        "text": "Genossenschaft"
+    },
+    {
+        "key": "parents",
+        "text": "Eltern"
+    },
+    {
+        "key": "ownHome",
+        "text": "eigenes Haus"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "key": "personal",
+        "text": "Personalausweis"
+    },
+    {
+        "key": "reisep",
+        "text": "Reisepass"
+    },
+    {
+        "key": "sonstig",
+        "text": "Sonstiges"
+    },
+    {
+        "key": "konvent_reisep",
+        "text": "\tKonventionsreisepass"
+    },
+    {
+        "key": "fuehr",
+        "text": "Führerschein ohne Ablaufdatum"
+    },
+    {
+        "key": "fuehreu",
+        "text": "Führerschein mit Ablaufdatum"
+    },
+    {
+        "key": "residence_permit",
+        "text": "Aufenthaltstitel"
+    }
+]

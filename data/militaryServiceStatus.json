@@ -1,0 +1,14 @@
+[
+    {
+        "key": "yes",
+        "text": "Ja"
+    },
+    {
+        "key": "no",
+        "text": "Nein"
+    },
+    {
+        "key": "freed",
+        "text": "Befreit"
+    }
+]

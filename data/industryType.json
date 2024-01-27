@@ -1,0 +1,70 @@
+[
+    {
+        "key": "farming_forestry",
+        "text": "Land/Forstwirtschaft"
+    },
+    {
+        "key": "food",
+        "text": "Nahr-/Genussmittel"
+    },
+    {
+        "key": "textile",
+        "text": "Textilprodukte"
+    },
+    {
+        "key": "paper_publishing",
+        "text": "Papier/Verlag"
+    },
+    {
+        "key": "chemicals",
+        "text": "Chemikalien"
+    },
+    {
+        "key": "machinery",
+        "text": "Maschinen"
+    },
+    {
+        "key": "furniture",
+        "text": "Möbel"
+    },
+    {
+        "key": "architecture",
+        "text": "Bauwesen"
+    },
+    {
+        "key": "trading",
+        "text": "Handel"
+    },
+    {
+        "key": "lodging",
+        "text": "Beherbergung/Gaststätten"
+    },
+    {
+        "key": "services",
+        "text": "Dienstleistungen"
+    },
+    {
+        "key": "traffic",
+        "text": "Verkehr"
+    },
+    {
+        "key": "healthcare",
+        "text": "Gesundheitsbereich"
+    },
+    {
+        "key": "civilService",
+        "text": "Öffentliche Verwaltung"
+    },
+    {
+        "key": "credit",
+        "text": "Kredit"
+    },
+    {
+        "key": "insurance",
+        "text": "Versicherungen"
+    },
+    {
+        "key": "notSpecified",
+        "text": "Keine Angabe"
+    }
+]

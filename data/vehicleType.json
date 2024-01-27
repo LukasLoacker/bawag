@@ -1,0 +1,32 @@
+[
+    {
+        "key": "200",
+        "text": "Einspurige",
+        "residualValueClass": 2
+    },
+    {
+        "key": "175",
+        "text": "Taxi u. Fahrschulfahrzeuge",
+        "residualValueClass": 1
+    },
+    {
+        "key": "160",
+        "text": "PKW",
+        "residualValueClass": 2
+    },
+    {
+        "key": "180",
+        "text": "Klein LKW",
+        "residualValueClass": 1
+    },
+    {
+        "key": "190",
+        "text": "LKW",
+        "residualValueClass": 1
+    },
+    {
+        "key": "170",
+        "text": "Kleinautobus",
+        "residualValueClass": 2
+    }
+]

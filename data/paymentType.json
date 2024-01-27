@@ -1,0 +1,22 @@
+[
+    {
+        "key": "ueb",
+        "text": "Überweisung"
+    },
+    {
+        "key": "sz",
+        "text": "Selbstzahler"
+    },
+    {
+        "key": "lse",
+        "text": "Lastschrifteinzug"
+    },
+    {
+        "key": "ev",
+        "text": "Abzug EV"
+    },
+    {
+        "key": "nb",
+        "text": "Neue Bankverbindung"
+    }
+]

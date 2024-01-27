@@ -1,0 +1,82 @@
+[
+    {
+        "key": "NGO",
+        "text": "NGO"
+    },
+    {
+        "key": "Charity",
+        "text": "Charity"
+    },
+    {
+        "key": "charitableAssociation",
+        "text": "Karitativer Verein"
+    },
+    {
+        "key": "politicalAssociation",
+        "text": "Politischer Verein einer Partei"
+    },
+    {
+        "key": "religiousAssociation",
+        "text": "Religiöser Verein"
+    },
+    {
+        "key": "association",
+        "text": "Verein"
+    },
+    {
+        "key": "politicalOrganization",
+        "text": "Politische Organisation"
+    },
+    {
+        "key": "religiousOrganisation",
+        "text": "Religiöse Organisation"
+    },
+    {
+        "key": "stateOwnedCompany",
+        "text": "Staatseigenes Unternehmen"
+    },
+    {
+        "key": "semiPublicCompany",
+        "text": "Staatsnahes Unternehmen"
+    },
+    {
+        "key": "nation",
+        "text": "Staat"
+    },
+    {
+        "key": "state",
+        "text": "Land"
+    },
+    {
+        "key": "commune",
+        "text": "Gemeinde"
+    },
+    {
+        "key": "embassy",
+        "text": "Botschaft"
+    },
+    {
+        "key": "chamber",
+        "text": "Kammer"
+    },
+    {
+        "key": "foundationByLaw",
+        "text": "Stiftung nach Bundes-/Landes-Gesetz"
+    },
+    {
+        "key": "nonProfitFoundation",
+        "text": "Stiftung gemeinnützig"
+    },
+    {
+        "key": "privateFoundation",
+        "text": "Stiftung geschäftstätig Privatstiftung"
+    },
+    {
+        "key": "Trust",
+        "text": "Trust"
+    },
+    {
+        "key": "notSpecified",
+        "text": "keine Auswahl zutreffend"
+    }
+]

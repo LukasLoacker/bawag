@@ -1,0 +1,38 @@
+[
+    {
+        "key": "CoCandidate",
+        "text": "Mitantragsteller"
+    },
+    {
+        "key": "Guarantor",
+        "text": "Erfüllungsgarant"
+    },
+    {
+        "key": "ResidualVal",
+        "text": "Restwertgarantie"
+    },
+    {
+        "key": "RepurchaseCash",
+        "text": "Rückkaufgarantie Barwert"
+    },
+    {
+        "key": "RepurchaseScale",
+        "text": "Rückkaufgarantie Staffel"
+    },
+    {
+        "key": "BankGuarantee",
+        "text": "Bankgarantie"
+    },
+    {
+        "key": "ComfortLetter",
+        "text": "Patronatserklärung"
+    },
+    {
+        "key": "BeneficialOwner",
+        "text": "wirtschaftlicher Eigentümer"
+    },
+    {
+        "key": "AuthorizedPerson",
+        "text": "vertretungsbefugte Person"
+    }
+]
