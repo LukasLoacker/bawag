@@ -1,0 +1,116 @@
+{
+    "candidate": {
+    ////////////////
+    // other data //
+    ////////////////
+
+    "additionalPersonType": "Guarantor",
+    "gender": "m", // if salution = M than gender = m, elseif salution = F than gender = f;
+    "telNo": "000000000000000", //is mandatory but not used
+
+    /////////////
+    // page 1 //
+    /////////////
+
+    "coCandidateType": "partner",
+    "salutation": "M",
+    "firstName": "Lukas",
+    "name": "Loacker",
+    "street": "Am Belvedere 10 QBC 2",
+    "postcode": 1100,
+    "city": "Wien",
+    "country": "AT",
+    "nationality": "AT",
+    "mobileNo": "0664 1787 882",
+    "email": "lukas.loacker@leaseteq.com",
+    "birthdate": "1990-01-01",
+    "identificationData2": {
+        "identificationType": "sonstig", //static
+        "country": "AT", //static
+        "place": "none", //static
+        "exhibitionDate": "2024-01-12",
+        "identityNumber": "none", //static
+        "validTo": "2024-01-12",
+        "comment": "none" //static
+    },
+    "isPEP": false,
+
+    /////////////
+    // page 2 //
+    /////////////
+
+    "employer": {
+        "employeedBy": "LeaseTeq Austria GmbH",
+        "address": "Am Belvedere 10 QBC 2",
+        "industryType": "architecture",
+        "employeeType": "Angestellter", //if employeeType = "Selbstaendig" down payment must be 30%
+        "employedSince": "2023-10-01",
+
+        //BEGIN: only if Today - employedSince is <= 6 Month
+        "preEmployer": "Test GmbH", 
+        "preEmployedFrom": "2023-03-01",
+        "preEmployedTo": "2023-09-30"
+        //END
+    },
+
+    //BEGIN: only if employeeType = "Selbstaendig"
+    "accountingType": "1",
+    "branch": "A011",
+    "dateOfFoundation": "2024-01-12", // if dateOfFoundation is shorter than 
+    //END
+
+    "income": 10000,
+    "additionalIncome": 0,
+
+    //BEGIN: only if industryType = "Selbstaendig"
+    "netGain": 10000,
+    "annualIncome": 100000,
+    //END
+
+    "originOfIncome": {
+        "ownBill": true, // is on page 3 in the UAJ
+        "isIncomePocketMoney": false,
+        "isIncomeEmployment": false,
+        "isIncomeSelfEmployment": false,
+        "isIncomeStateAid": true,
+        "isIncomeRental": false,
+        "isIncomeDonation": false,
+        "isIncomeFinancialAsset": false,
+        "isIncomeExpiredContractInsurance": false,
+        "isIncomeMiscellaneous": false,
+        "miscellaneousText": null
+    },
+
+
+    /////////////
+    // page 3 //
+    /////////////
+
+    "homeStatus": "ownHome",
+    "residentSince": "2011-01-01",
+    "additionalCosts": 2000,
+    "existingInstalments": 0,
+    "additionalPayments": 0,
+
+    "insolvency": false,
+    "familyStatus": "divorced",
+    "isPartnerEmployed": true, //only show if familyStatus = married or community
+    "militaryServiceStatus": "yes",
+    "responsibleForSupportCount": 2,
+    
+    //////////////////
+    // IDnow update //
+    //////////////////
+
+    "identificationData1": {
+        "identificationType": "personal",
+        "country": "AT",
+        "place": "BH Korneuburg",
+        "exhibitionDate": "2024-01-12",
+        "identityNumber": "10275344",
+        "validTo": "2024-01-12",
+        "comment": "string"
+    }
+
+}
+}

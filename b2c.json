@@ -1,0 +1,179 @@
+{
+    "externalId": "case-XX-XX-2024",
+    "vehicle": {
+        "vehicleState": "new",
+        "initialRegDate": "", 
+        "mainObject": {
+            "listPriceExcl": 29158.3333333333, 
+            "markdown": 0,
+            "initialValue": 29158.3333333333
+        },
+        "additionalObject": { // the delta between eurotax purchase price and listPriceExcl must be filled in here.
+            "listPriceExcl": 7499.9966666,
+            "markdown": 0,
+            "initialValue": 7499.9966666
+        },
+        "eurotaxListPriceExcl": 29158.3333333333,
+        "vehicleType": "160",
+        "natCode": "275518",
+        "kilometers": 0,
+        "isElectric": true,
+        "isImport": true
+    },
+    "calculation": {
+        "term": 36,
+        "serviceLife": 20000,
+        "residualValueExcl": 11666.6666667,
+        "residualValuePrc": 0.5,
+        "eurotaxResidualValueExcl": 15697.96,
+        "interestRate": 0.0638,
+        "interestRateBase": 0.03909,
+        "interestRateBaseDate": "2024-01-04",
+        "interestRateBaseText": "3-Monats-Euribor v. 31.12.2023",
+        "paymentType": 12,
+        "varDepot": 0,
+        "fixDepot": 0,
+        "prepaymentExcl": 10997.50,
+        "processingFeeExcl": 0,
+        "legalTransactionFee": 342.60,
+        "interestRateType": "Variable",
+        "provisionPrc": 0.00,
+        "provisionValueType": "Finanzierungsbetrag",
+        "isArrear": false,
+        "inclLegalTransactionFee": false,
+        "refundingInterestRate": 0.018,
+        "importerSupport": 0,
+        "isInclTax": true,
+        "rentExcl": 487.58
+    },
+    "candidate": {
+        ////////////////
+        // other data //
+        ////////////////
+
+        "personType": "private", // is always private for B2C UAJ
+        "gender": "m", // if salution = M than gender = m, elseif salution = F than gender = f;
+        "telNo": "000000000000000", //is mandatory but not used
+
+        /////////////
+        // page 1 //
+        /////////////
+
+        "salutation": "M",
+        "firstName": "Lukas",
+        "name": "Loacker",
+        "street": "Am Belvedere 10 QBC 2",
+        "postcode": 1100,
+        "city": "Wien",
+        "country": "AT",
+        "nationality": "AT",
+        "mobileNo": "0664 1787 882",
+        "email": "lukas.loacker@leaseteq.com",
+        "birthdate": "1990-01-01",
+        "identificationData2": {
+            "identificationType": "sonstig", //static
+            "country": "AT", //static
+            "place": "none", //static
+            "exhibitionDate": "2024-01-12",
+            "identityNumber": "none", //static
+            "validTo": "2024-01-12",
+            "comment": "none" //static
+        },
+        "isPEP": false,
+
+        /////////////
+        // page 2 //
+        /////////////
+
+        "employer": {
+            "employeedBy": "LeaseTeq Austria GmbH",
+            "address": "Am Belvedere 10 QBC 2",
+            "industryType": "architecture",
+            "employeeType": "Angestellter", //if employeeType = "Selbstaendig" down payment must be 30%
+            "employedSince": "2023-10-01",
+
+            //BEGIN: only if Today - employedSince is <= 6 Month
+            "preEmployer": "Test GmbH", 
+            "preEmployedFrom": "2023-03-01",
+            "preEmployedTo": "2023-09-30"
+            //END
+        },
+
+        //BEGIN: only if employeeType = "Selbstaendig"
+        "accountingType": "1",
+        "branch": "A011",
+        "dateOfFoundation": "2024-01-12", // if dateOfFoundation is shorter than 
+        //END
+
+        "income": 10000,
+        "additionalIncome": 0,
+
+        //BEGIN: only if industryType = "Selbstaendig"
+        "netGain": 10000,
+        "annualIncome": 100000,
+        //END
+
+        "originOfIncome": {
+            "ownBill": true, // is on page 3 in the UAJ
+            "isIncomePocketMoney": false,
+            "isIncomeEmployment": false,
+            "isIncomeSelfEmployment": false,
+            "isIncomeStateAid": true,
+            "isIncomeRental": false,
+            "isIncomeDonation": false,
+            "isIncomeFinancialAsset": false,
+            "isIncomeExpiredContractInsurance": false,
+            "isIncomeMiscellaneous": false,
+            "miscellaneousText": null
+        },
+
+
+        /////////////
+        // page 3 //
+        /////////////
+
+        "homeStatus": "ownHome",
+        "residentSince": "2011-01-01",
+        "additionalCosts": 2000,
+        "existingInstalments": 0,
+        "additionalPayments": 0,
+
+        "insolvency": false,
+        "familyStatus": "divorced",
+        "isPartnerEmployed": true, //only show if familyStatus = married or community
+        "militaryServiceStatus": "yes",
+        "responsibleForSupportCount": 2,
+        
+        "financingRepayment": {
+            "isCashDeposit": false,
+            "isPaymentAustria": true,
+            "isPaymentEU": false,
+            "isPaymentOutsideEU": false
+        },
+        "paymentMethod": "lse", //for now only lse is allowed
+
+        //BEGIN only show if paymentMethod = "lse"
+        "accountInformation": { 
+            "accountHolder": "Vorname Test Nachname Test", //must be prefilled with firstName and name
+            "iban": "AT611904300234573201"
+        },
+        //END
+
+        //////////////////
+        // IDnow update //
+        //////////////////
+
+        "identificationData1": {
+            "identificationType": "personal",
+            "country": "AT",
+            "place": "BH Korneuburg",
+            "exhibitionDate": "2024-01-12",
+            "identityNumber": "10275344",
+            "validTo": "2024-01-12",
+            "comment": "string"
+        }
+
+    },
+    "status": "calculation",
+    "requestReviewFinishedCallbackUrl": "https://sahlbefhwv5ewxrvqu3j6adzra0uviii.lambda-url.eu-west-1.on.aws"
+}

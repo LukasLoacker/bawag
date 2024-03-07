@@ -1,0 +1,189 @@
+{
+    "externalId": "case-XX-XX-2024",
+    "vehicle": {
+        "vehicleState": "new",
+        "initialRegDate": "", 
+        "mainObject": {
+            "listPriceExcl": 29158.3333333333, 
+            "markdown": 0,
+            "initialValue": 29158.3333333333
+        },
+        "additionalObject": { // the delta between eurotax purchase price and listPriceExcl must be filled in here.
+            "listPriceExcl": 7499.9966666,
+            "markdown": 0,
+            "initialValue": 7499.9966666
+        },
+        "eurotaxListPriceExcl": 29158.3333333333,
+        "vehicleType": "160",
+        "natCode": "275518",
+        "kilometers": 0,
+        "isElectric": true,
+        "isImport": true
+    },
+    "calculation": {
+        "term": 36,
+        "serviceLife": 20000,
+        "residualValueExcl": 11666.6666667,
+        "residualValuePrc": 0.5,
+        "eurotaxResidualValueExcl": 15697.96,
+        "interestRate": 0.0638,
+        "interestRateBase": 0.03909,
+        "interestRateBaseDate": "2024-01-04",
+        "interestRateBaseText": "3-Monats-Euribor v. 31.12.2023",
+        "paymentType": 12,
+        "varDepot": 0,
+        "fixDepot": 0,
+        "prepaymentExcl": 10997.50,
+        "processingFeeExcl": 0,
+        "legalTransactionFee": 342.60,
+        "interestRateType": "Variable",
+        "provisionPrc": 0.00,
+        "provisionValueType": "Finanzierungsbetrag",
+        "isArrear": false,
+        "inclLegalTransactionFee": false,
+        "refundingInterestRate": 0.018,
+        "importerSupport": 0,
+        "isInclTax": true,
+        "rentExcl": 487.58
+    },
+   "candidate": {
+        ////////////////
+        // other data //
+        ////////////////
+        
+        "associateNationality": "notAT",
+
+        /////////////
+        // page 1 //
+        /////////////
+
+        "personType": "company",
+        "companyType": "10",
+        "name": "Berlin",
+        "name2": "GmbH & Co KG",
+        "legalForm": "14",
+        "street": "Hanne Nütte 53",
+        "postcode": 10965,
+        "city": "Berlin",
+        "country": "D",
+        "finAccountingNo": "132252 p",
+        "taxNumber": "ATU38752104",
+        "dateOfFoundation": "2010-01-01",
+        "salutation": "M",
+        "contactPersonName": "Max Mustermann",
+        "email": "lukas.loacker@leaseteq.com",
+        "telNo": "000000000000000",
+        "identityType": "notSpecified",
+        "branch": "S96012",
+        "economicIncentive": "notSpecified",
+        "accountingType": "3",
+        "connectionToAustria": {
+            "hasHeadquarter": false,
+            "hasBusinessPartner": false,
+            "hasBranch": true,
+            "hasCustomerRelationships": false,
+            "hasRealestates": false
+        },
+        "numberOfEmployees": 10,
+        "numberOfFreeEmployees": 0,
+        "isEconomicOwnerSpecialCase": false,
+
+        /////////////
+        // page 3 //
+        /////////////
+
+        "netGain": 10000,
+        "annualIncome": 100000,
+
+        "originOfIncome": {
+            "ownBill": true,
+            "isIncomeFinancialAsset": false,
+            "isIncomeExpiredContractInsurance": false,
+            "isIncomeBusinessOperationCompany": true,
+            "isIncomeRentalCompany": false,
+            "isIncomeDispostionCompany": false,
+            "isIncomeLicenseCompany": false,
+            "isIncomeMiscellaneous": false,
+            "miscellaneousText": null
+        },
+        "insolvency": false,
+        "financingRepayment": {
+            "isCashDeposit": false,
+            "isPaymentAustria": true,
+            "isPaymentEU": false,
+            "isPaymentOutsideEU": false
+        },
+        "paymentMethod": "lse",
+        "accountInformation": {
+            "accountHolder": "Thomas Test",
+           "iban": "AT611904300234573201",
+           "bic": "RZSTAT2G123"
+        }
+   },
+   "additionalPersons": [
+
+        /////////////
+        // page 2 //
+        /////////////
+        {
+            "additionalPersonType": "AuthorizedPerson",
+            "coCandidateType": "partner",
+            "personType": "private",
+            "salutation": "W",
+            "gender": "w",
+            "firstName": "Test Anna",
+            "name": "Test Nachname",
+            "birthdate": "1993-01-15",
+            "nationality": "D",
+            "street": "Am Belvedere 10 QBC 2",
+            "postcode": 1100,
+            "city": "Wien",
+            "country": "AT",
+            "mobileNo": "0664 1787 882",
+            "telNo": "000000000000000",
+            "email": "lukas.loacker@leaseteq.com",
+            "identificationData2": {
+                "identificationType": "sonstig", //static
+                "country": "AT", //static
+                "place": "none", //static
+                "exhibitionDate": "2024-01-12",
+                "identityNumber": "none", //static
+                "validTo": "2024-01-12",
+                "comment": "none" //static
+            },
+            "isPEP": false,
+
+            //////////////////
+            // IDnow update //
+            //////////////////
+
+            "identificationData1": {
+            "identificationType": "personal",
+            "country": "AT",
+            "place": "BH Korneuburg",
+            "exhibitionDate": "2024-01-12",
+            "identityNumber": "10275344",
+            "validTo": "2024-01-12",
+            "comment": "string"
+            }
+        },
+        {
+            "additionalPersonType": "BeneficialOwner",
+            "coCandidateType": "partner",
+            "personType": "private",
+            "salutation": "W",
+            "gender": "w",
+            "firstName": "Test Anna",
+            "name": "Test Nachname",
+            "birthdate": "1993-01-15",
+            "nationality": "D",
+            "street": "Am Belvedere 10 QBC 2",
+            "postcode": 1100,
+            "city": "Wien",
+            "country": "AT",
+            "isPEP": false
+        }
+   ],
+   "status": "calculation",
+   "requestReviewFinishedCallbackUrl": "https://sahlbefhwv5ewxrvqu3j6adzra0uviii.lambda-url.eu-west-1.on.aws"
+}
