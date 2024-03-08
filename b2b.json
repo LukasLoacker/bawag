@@ -52,13 +52,15 @@
         ////////////////
         
         "associateNationality": "notAT",
-
+        "telNo": "000000000000000",
+        "personType": "company",
+        "companyType": "10",
+        "isEconomicOwnerSpecialCase": false,
+        
         /////////////
         // page 1 //
         /////////////
 
-        "personType": "company",
-        "companyType": "10",
         "name": "Berlin",
         "name2": "GmbH & Co KG",
         "legalForm": "14",
@@ -69,10 +71,14 @@
         "finAccountingNo": "132252 p",
         "taxNumber": "ATU38752104",
         "dateOfFoundation": "2010-01-01",
+        
+        //BEGIN contact person info 
         "salutation": "M",
         "contactPersonName": "Max Mustermann",
         "email": "lukas.loacker@leaseteq.com",
-        "telNo": "000000000000000",
+        "mobileNo": "0664 1787 882",
+        //END
+
         "identityType": "notSpecified",
         "branch": "S96012",
         "economicIncentive": "notSpecified",
@@ -86,7 +92,6 @@
         },
         "numberOfEmployees": 10,
         "numberOfFreeEmployees": 0,
-        "isEconomicOwnerSpecialCase": false,
 
         /////////////
         // page 3 //

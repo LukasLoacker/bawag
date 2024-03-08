@@ -137,8 +137,8 @@
         "additionalCosts": 2000,
         "existingInstalments": 0,
         "additionalPayments": 0,
-
         "insolvency": false,
+        
         "familyStatus": "divorced",
         "isPartnerEmployed": true, //only show if familyStatus = married or community
         "militaryServiceStatus": "yes",
