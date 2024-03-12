@@ -1,0 +1,35 @@
+{
+    "Country Details, Country":"Austria",
+    "Record Type, Record Type":"Entity",
+    "Date Details, Reference":null,
+    "Last Reviewed Date, Last Reviewed Date":"2022-06-01T02:11:00",
+    "Status, Status":"Active",
+    "Description, Description 2":"Other Exclusion Lists",
+    "Description, Description 1":"SIE",
+    "Date Details,Datevalue Reference":"May-2022",
+    "Company Details,Address Line":"Donaustadtstrafse 1 /5, 1220",
+    "Source Description,Source Name":"https://www.afdb.org/en/projects-operations/debarment-and-sanctions-procedures",
+    "Company Details, Address City":"Vienna",
+    "Company Details, Address Country":"Austria",
+    "Country Details, Country Type":"Country of Affiliation",
+    "Date Details, Datevalue To Reference":null,
+    "Profile ID Number, Profile ID Number":"12720766",
+    "Profile Notes, Profile Notes":
+        "INTER-AMERICAN DEVELOPMENT BANK (IDB) NOTES:\n\n
+        IDB Sanction List of Firms and Individuals
+        Country of project: Brazil
+        Ineligibility Period: Mar 18, 2022 to Mar 17, 2025
+        Grounds: Corruption, Collusion
+        Source: IDB
+        IDB Sanction Type: Debarment w/ conditional release
+        IDB Sanction Source: NRA (Negotiated Resolution Agreement)
+        WORLD BANK NOTES:\n\nIneligibility Period: From 02-May-2022 to 17-Mar-2025
+        Grounds: Cross Debarment: IDB
+        ASIAN DEVELOPMENT BANK ANTICORRUPTION POLICY NOTES:
+            Lapse Date: 17/Mar/2025
+            Grounds: Cross-Debarment: IDB
+            AFRICAN DEVELOPMENT BANK GROUP (AFDB) NOTES:
+            Ineligibility Until: 17-Mar-2025
+            Basis for Ineligibility: CROSS-DEBARMENT: IADB",
+    "Primary Name Value, Primary Name":"OAS International Engineering GmbH"
+}
