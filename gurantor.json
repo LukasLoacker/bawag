@@ -2,7 +2,7 @@
     ////////////////
     // other data //
     ////////////////
-
+    "personType": "private",
     "additionalPersonType": "Guarantor",
     "gender": "m", // if salution = M than gender = m, elseif salution = F than gender = f;
     "telNo": "000000000000000", //is mandatory but not used

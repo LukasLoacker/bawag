@@ -1,5 +1,5 @@
 {
-    "externalId": "case-XX-XX-2024",
+    "externalId": "case-unreg-sol-prop-3",
     "vehicle": {
         "vehicleState": "new",
         "initialRegDate": "", 
@@ -51,16 +51,17 @@
         // other data //
         ////////////////
 
-        "personType": "private", // is always private for B2C UAJ
+        "personType": "company", // is always private for B2C UAJ
         "gender": "m", // if salution = M than gender = m, elseif salution = F than gender = f;
         "telNo": "000000000000000", //is mandatory but not used
-        "companyType": "10",
+        "companyType": "11",
         "associateNationality": "AT", //if candidate.nationality is not AT
 
         /////////////
         // page 1 //
-        //////////// 
+        ////////////
 
+        "salutation": "M",
         "firstName": "Maria",
         "name": "Musterfrau",
         "street": "Teststraße 10",
